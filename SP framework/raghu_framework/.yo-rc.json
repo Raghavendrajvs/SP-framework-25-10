@@ -1,0 +1,11 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "isCreatingSolution": true,
+    "environment": "spo",
+    "version": "1.6.0",
+    "libraryName": "raghu-framework",
+    "libraryId": "118e7e2d-ce1f-403a-8424-ca508f992211",
+    "packageManager": "npm",
+    "componentType": "webpart"
+  }
+}

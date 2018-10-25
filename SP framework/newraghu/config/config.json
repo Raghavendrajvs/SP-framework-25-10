@@ -1,0 +1,18 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/config.2.0.schema.json",
+  "version": "2.0",
+  "bundles": {
+    "raghu-2410-web-part": {
+      "components": [
+        {
+          "entrypoint": "./lib/webparts/raghu2410/Raghu2410WebPart.js",
+          "manifest": "./src/webparts/raghu2410/Raghu2410WebPart.manifest.json"
+        }
+      ]
+    }
+  },
+  "externals": {},
+  "localizedResources": {
+    "Raghu2410WebPartStrings": "lib/webparts/raghu2410/loc/{locale}.js"
+  }
+}

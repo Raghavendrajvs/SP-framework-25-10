@@ -1,0 +1,12 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "newraghu-client-side-solution",
+    "id": "48b2e315-632d-4c2c-9ff4-fc9b741bf33e",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true
+  },
+  "paths": {
+    "zippedPackage": "solution/newraghu.sppkg"
+  }
+}

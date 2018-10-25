@@ -1,0 +1,12 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "productsass-client-side-solution",
+    "id": "7b42ac31-70ef-4eef-a2e1-994149a12742",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true
+  },
+  "paths": {
+    "zippedPackage": "solution/productsass.sppkg"
+  }
+}

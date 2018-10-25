@@ -1,0 +1,12 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "raghu-framework-client-side-solution",
+    "id": "118e7e2d-ce1f-403a-8424-ca508f992211",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true
+  },
+  "paths": {
+    "zippedPackage": "solution/raghu-framework.sppkg"
+  }
+}

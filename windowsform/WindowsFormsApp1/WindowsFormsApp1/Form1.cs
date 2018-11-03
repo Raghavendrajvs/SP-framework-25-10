@@ -18,7 +18,7 @@ namespace WindowsFormsApp1
     { 
         IList<string> RootFoldersPath = new List<string>();  // list for RootFoldersPath
         IList<string> SubFoldersPath = new List<string>();   // list for SubFoldersPath
-        IList<string> FilesPath = new List<string>();        // list for FilesPath
+       
         public Form1()
         {
           InitializeComponent();
@@ -102,7 +102,7 @@ namespace WindowsFormsApp1
         private void Remove_Click(object sender, EventArgs e)
         {
             try
-            {
+            {                               
                 string folderpath = "";
                 foreach (string path in RootFoldersPath)  // getting each folderpath in list
                 {
@@ -122,7 +122,8 @@ namespace WindowsFormsApp1
                     Errorlabel2.Text = "";
                     Errorlabel1.Text = "";
 
-                    string foldername = SelectedFolders.SelectedItem.ToString();  // selecting the foldername to remove
+                    string foldername = SelectedFolders.SelectedItem.ToString(); // selecting the foldername to remove
+                   
                     SelectedFolders.Items.Remove(foldername);   // removing the selected folders in listbox
                     String RemovingItem = "";
 

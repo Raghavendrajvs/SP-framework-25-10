@@ -77,12 +77,6 @@ namespace DAL.Repository
                 sqlCommand.Parameters.Add("@IsFilesupported", SqlDbType.Bit).Value = file.IsFilesupported;
                 sqlCommand.ExecuteNonQuery();
             }
-        }
-
-
-      
-
-
-
+        }  
     }     
 }

@@ -28,113 +28,128 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.textBox1 = new System.Windows.Forms.TextBox();
+            this.SelectedPathFolder = new System.Windows.Forms.TextBox();
             this.folderBrowserDialog1 = new System.Windows.Forms.FolderBrowserDialog();
-            this.button1 = new System.Windows.Forms.Button();
+            this.Browse = new System.Windows.Forms.Button();
             this.openFileDialog1 = new System.Windows.Forms.OpenFileDialog();
-            this.listBox1 = new System.Windows.Forms.ListBox();
-            this.button2 = new System.Windows.Forms.Button();
-            this.button3 = new System.Windows.Forms.Button();
-            this.label1 = new System.Windows.Forms.Label();
-            this.label2 = new System.Windows.Forms.Label();
-            this.button4 = new System.Windows.Forms.Button();
+            this.SelectedFolders = new System.Windows.Forms.ListBox();
+            this.Add = new System.Windows.Forms.Button();
+            this.Remove = new System.Windows.Forms.Button();
+            this.SelectFolderLabel = new System.Windows.Forms.Label();
+            this.SelectedFolderLabel = new System.Windows.Forms.Label();
+            this.Run = new System.Windows.Forms.Button();
+            this.Errorlabel2 = new System.Windows.Forms.Label();
+            this.Errorlabel1 = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
-            // textBox1
+            // SelectedPathFolder
             // 
-            this.textBox1.Location = new System.Drawing.Point(157, 90);
-            this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(253, 20);
-            this.textBox1.TabIndex = 0;
+            this.SelectedPathFolder.Location = new System.Drawing.Point(157, 90);
+            this.SelectedPathFolder.Name = "SelectedPathFolder";
+            this.SelectedPathFolder.Size = new System.Drawing.Size(253, 20);
+            this.SelectedPathFolder.TabIndex = 0;
             // 
             // folderBrowserDialog1
             // 
             this.folderBrowserDialog1.HelpRequest += new System.EventHandler(this.folderBrowserDialog1_HelpRequest_1);
             // 
-            // button1
+            // Browse
             // 
-            this.button1.Location = new System.Drawing.Point(405, 88);
-            this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(75, 23);
-            this.button1.TabIndex = 1;
-            this.button1.Text = "Browse";
-            this.button1.UseVisualStyleBackColor = true;
-            this.button1.Click += new System.EventHandler(this.button1_Click);
+            this.Browse.Location = new System.Drawing.Point(405, 88);
+            this.Browse.Name = "Browse";
+            this.Browse.Size = new System.Drawing.Size(75, 23);
+            this.Browse.TabIndex = 1;
+            this.Browse.Text = "Browse";
+            this.Browse.UseVisualStyleBackColor = true;
+            this.Browse.Click += new System.EventHandler(this.Browse_Click);
             // 
-            // openFileDialog1
+            // SelectedFolders
             // 
-            this.openFileDialog1.FileName = "openFileDialog1";
-            this.openFileDialog1.FileOk += new System.ComponentModel.CancelEventHandler(this.openFileDialog1_FileOk);
+            this.SelectedFolders.FormattingEnabled = true;
+            this.SelectedFolders.Location = new System.Drawing.Point(157, 182);
+            this.SelectedFolders.Name = "SelectedFolders";
+            this.SelectedFolders.Size = new System.Drawing.Size(253, 134);
+            this.SelectedFolders.TabIndex = 2;
             // 
-            // listBox1
+            // Add
             // 
-            this.listBox1.FormattingEnabled = true;
-            this.listBox1.Location = new System.Drawing.Point(157, 182);
-            this.listBox1.Name = "listBox1";
-            this.listBox1.Size = new System.Drawing.Size(253, 134);
-            this.listBox1.TabIndex = 2;
+            this.Add.Location = new System.Drawing.Point(530, 87);
+            this.Add.Name = "Add";
+            this.Add.Size = new System.Drawing.Size(75, 23);
+            this.Add.TabIndex = 3;
+            this.Add.Text = "Add";
+            this.Add.UseVisualStyleBackColor = true;
+            this.Add.Click += new System.EventHandler(this.Add_Click);
             // 
-            // button2
+            // Remove
             // 
-            this.button2.Location = new System.Drawing.Point(504, 90);
-            this.button2.Name = "button2";
-            this.button2.Size = new System.Drawing.Size(75, 23);
-            this.button2.TabIndex = 3;
-            this.button2.Text = "ADD";
-            this.button2.UseVisualStyleBackColor = true;
-            this.button2.Click += new System.EventHandler(this.button2_Click_1);
+            this.Remove.Location = new System.Drawing.Point(530, 182);
+            this.Remove.Name = "Remove";
+            this.Remove.Size = new System.Drawing.Size(75, 23);
+            this.Remove.TabIndex = 4;
+            this.Remove.Text = "Remove";
+            this.Remove.UseVisualStyleBackColor = true;
+            this.Remove.Click += new System.EventHandler(this.Remove_Click);
             // 
-            // button3
+            // SelectFolderLabel
             // 
-            this.button3.Location = new System.Drawing.Point(441, 182);
-            this.button3.Name = "button3";
-            this.button3.Size = new System.Drawing.Size(75, 23);
-            this.button3.TabIndex = 4;
-            this.button3.Text = "Remove";
-            this.button3.UseVisualStyleBackColor = true;
-            this.button3.Click += new System.EventHandler(this.button3_Click);
+            this.SelectFolderLabel.AutoSize = true;
+            this.SelectFolderLabel.Location = new System.Drawing.Point(47, 88);
+            this.SelectFolderLabel.Name = "SelectFolderLabel";
+            this.SelectFolderLabel.Size = new System.Drawing.Size(69, 13);
+            this.SelectFolderLabel.TabIndex = 5;
+            this.SelectFolderLabel.Text = "Select Folder";
             // 
-            // label1
+            // SelectedFolderLabel
             // 
-            this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(47, 97);
-            this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(35, 13);
-            this.label1.TabIndex = 5;
-            this.label1.Text = "label1";
+            this.SelectedFolderLabel.AutoSize = true;
+            this.SelectedFolderLabel.Location = new System.Drawing.Point(47, 182);
+            this.SelectedFolderLabel.Name = "SelectedFolderLabel";
+            this.SelectedFolderLabel.Size = new System.Drawing.Size(78, 13);
+            this.SelectedFolderLabel.TabIndex = 6;
+            this.SelectedFolderLabel.Text = "Selected folder";
             // 
-            // label2
+            // Run
             // 
-            this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(47, 182);
-            this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(35, 13);
-            this.label2.TabIndex = 6;
-            this.label2.Text = "label2";
+            this.Run.Location = new System.Drawing.Point(335, 345);
+            this.Run.Name = "Run";
+            this.Run.Size = new System.Drawing.Size(75, 23);
+            this.Run.TabIndex = 7;
+            this.Run.Text = "Run";
+            this.Run.UseVisualStyleBackColor = true;
+            this.Run.Click += new System.EventHandler(this.Run_Click);
             // 
-            // button4
+            // Errorlabel2
             // 
-            this.button4.Location = new System.Drawing.Point(356, 359);
-            this.button4.Name = "button4";
-            this.button4.Size = new System.Drawing.Size(75, 23);
-            this.button4.TabIndex = 7;
-            this.button4.Text = "Run";
-            this.button4.UseVisualStyleBackColor = true;
-            this.button4.Click += new System.EventHandler(this.button4_Click);
+            this.Errorlabel2.AutoSize = true;
+            this.Errorlabel2.Location = new System.Drawing.Point(455, 225);
+            this.Errorlabel2.Name = "Errorlabel2";
+            this.Errorlabel2.Size = new System.Drawing.Size(0, 13);
+            this.Errorlabel2.TabIndex = 10;
+            // 
+            // Errorlabel1
+            // 
+            this.Errorlabel1.AutoSize = true;
+            this.Errorlabel1.Location = new System.Drawing.Point(268, 129);
+            this.Errorlabel1.Name = "Errorlabel1";
+            this.Errorlabel1.Size = new System.Drawing.Size(0, 13);
+            this.Errorlabel1.TabIndex = 11;
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
-            this.Controls.Add(this.button4);
-            this.Controls.Add(this.label2);
-            this.Controls.Add(this.label1);
-            this.Controls.Add(this.button3);
-            this.Controls.Add(this.button2);
-            this.Controls.Add(this.listBox1);
-            this.Controls.Add(this.button1);
-            this.Controls.Add(this.textBox1);
+            this.Controls.Add(this.Errorlabel1);
+            this.Controls.Add(this.Errorlabel2);
+            this.Controls.Add(this.Run);
+            this.Controls.Add(this.SelectedFolderLabel);
+            this.Controls.Add(this.SelectFolderLabel);
+            this.Controls.Add(this.Remove);
+            this.Controls.Add(this.Add);
+            this.Controls.Add(this.SelectedFolders);
+            this.Controls.Add(this.Browse);
+            this.Controls.Add(this.SelectedPathFolder);
             this.Name = "Form1";
             this.Text = "Form1";
             this.Load += new System.EventHandler(this.Form1_Load);
@@ -145,16 +160,18 @@
 
         #endregion
 
-        private System.Windows.Forms.TextBox textBox1;
+        private System.Windows.Forms.TextBox SelectedPathFolder;
         private System.Windows.Forms.FolderBrowserDialog folderBrowserDialog1;
-        private System.Windows.Forms.Button button1;
+        private System.Windows.Forms.Button Browse;
         private System.Windows.Forms.OpenFileDialog openFileDialog1;
-        private System.Windows.Forms.ListBox listBox1;
-        private System.Windows.Forms.Button button2;
-        private System.Windows.Forms.Button button3;
-        private System.Windows.Forms.Label label1;
-        private System.Windows.Forms.Label label2;
-        private System.Windows.Forms.Button button4;
+        private System.Windows.Forms.ListBox SelectedFolders;
+        private System.Windows.Forms.Button Add;
+        private System.Windows.Forms.Button Remove;
+        private System.Windows.Forms.Label SelectFolderLabel;
+        private System.Windows.Forms.Label SelectedFolderLabel;
+        private System.Windows.Forms.Button Run;
+        private System.Windows.Forms.Label Errorlabel2;
+        private System.Windows.Forms.Label Errorlabel1;
     }
 }
 

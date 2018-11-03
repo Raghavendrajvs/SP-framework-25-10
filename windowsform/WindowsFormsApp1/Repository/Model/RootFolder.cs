@@ -6,14 +6,14 @@ using System.Threading.Tasks;
 
 namespace DAL.Model
 {
-    class RootFolder
+    public class RootFolder
     {
-        int  Id { get; set; }
-        string Name { get; set; }
-        string Path { get; set; }
-        string CreatedBy { get; set; }
-        string ModifiedBy { get; set; }
-        DateTime CreatedOn { get; set; }
-        DateTime ModifiedOn { get; set; }
+        public int  Id { get; set; }
+        public string Name { get; set; }
+        public string Path { get; set; }
+        public string CreatedBy { get; set; }
+        public string ModifiedBy { get; set; }
+        public DateTime CreatedOn { get; set; }
+        public DateTime ModifiedOn { get; set; }
     }
 }

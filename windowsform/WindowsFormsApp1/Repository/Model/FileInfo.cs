@@ -8,19 +8,19 @@ namespace DAL.Model
 {
     public class FileInfo
     {
-        int Id { get; set; }
-        int SubFolderId { get; set; }
-        string Name { get; set; }
-        string Path { get; set; }
-        string Type { get; set; }
-        long Size { get; set; }
-        string CreatedBy { get; set; }
-        string ModifiedBy { get; set; }
-        DateTime FileAccessed { get; set; }
-        DateTime CreatedOn { get; set; }
-        DateTime ModifiedOn { get; set; }
-        bool IsFilePathOK { get; set; }
-        bool IsFileUnsupported { get; set; }
-        string Permission { get; set; }
+        public int Id { get; set; }
+        public int SubFolderId { get; set; }
+        public string Name { get; set; }
+        public string Path { get; set; }
+        public string Type { get; set; }
+        public string Size { get; set; }
+        public string CreatedBy { get; set; }
+        public string ModifiedBy { get; set; }
+        public DateTime FileAccessed { get; set; }
+        public DateTime CreatedOn { get; set; }
+        public DateTime ModifiedOn { get; set; }
+        public bool IsFilePathOK { get; set; }
+        public bool IsFilesupported { get; set; }
+       
     }
 }

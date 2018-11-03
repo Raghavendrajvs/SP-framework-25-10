@@ -1,0 +1,1938 @@
+﻿-----------Exception Details on  11/3/2018 2:30:05 PM-----------------
+-------------------------------------------------------------------------------------
+File name can't contains "*:<>?//\|. 
+
+
+
+   at WindowsFormsApp1.Form1.GetFileInfo(String FilePath) in D:\windowsform\WindowsFormsApp1\WindowsFormsApp1\Form1.cs:line 383
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  11/3/2018 2:30:05 PM-----------------
+-------------------------------------------------------------------------------------
+File name can't contains "*:<>?//\|. 
+
+
+
+   at WindowsFormsApp1.Form1.GetFileInfo(String FilePath) in D:\windowsform\WindowsFormsApp1\WindowsFormsApp1\Form1.cs:line 383
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  11/3/2018 2:30:05 PM-----------------
+-------------------------------------------------------------------------------------
+SqlDateTime overflow. Must be between 1/1/1753 12:00:00 AM and 12/31/9999 11:59:59 PM.
+
+
+
+   at System.Data.SqlClient.TdsParser.TdsExecuteRPC(SqlCommand cmd, _SqlRPC[] rpcArray, Int32 timeout, Boolean inSchema, SqlNotificationRequest notificationRequest, TdsParserStateObject stateObj, Boolean isCommandProc, Boolean sync, TaskCompletionSource`1 completion, Int32 startRpc, Int32 startParam)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at DAL.Repository.FileInformation.UploadFile(FileInfo file, Int32 id) in D:\windowsform\WindowsFormsApp1\Repository\Repository\FileInformation.cs:line 95
+   at WindowsFormsApp1.Form1.LoadSubDirs(String directory, Int32 PresentFolderid, Int32 Rootid) in D:\windowsform\WindowsFormsApp1\WindowsFormsApp1\Form1.cs:line 229
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  11/3/2018 2:30:05 PM-----------------
+-------------------------------------------------------------------------------------
+File name can't contains "*:<>?//\|. 
+
+
+
+   at WindowsFormsApp1.Form1.GetFileInfo(String FilePath) in D:\windowsform\WindowsFormsApp1\WindowsFormsApp1\Form1.cs:line 383
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  11/3/2018 2:30:05 PM-----------------
+-------------------------------------------------------------------------------------
+SqlDateTime overflow. Must be between 1/1/1753 12:00:00 AM and 12/31/9999 11:59:59 PM.
+
+
+
+   at System.Data.SqlClient.TdsParser.TdsExecuteRPC(SqlCommand cmd, _SqlRPC[] rpcArray, Int32 timeout, Boolean inSchema, SqlNotificationRequest notificationRequest, TdsParserStateObject stateObj, Boolean isCommandProc, Boolean sync, TaskCompletionSource`1 completion, Int32 startRpc, Int32 startParam)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at DAL.Repository.FileInformation.UploadFile(FileInfo file, Int32 id) in D:\windowsform\WindowsFormsApp1\Repository\Repository\FileInformation.cs:line 95
+   at WindowsFormsApp1.Form1.LoadSubDirs(String directory, Int32 PresentFolderid, Int32 Rootid) in D:\windowsform\WindowsFormsApp1\WindowsFormsApp1\Form1.cs:line 229
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  11/3/2018 2:30:05 PM-----------------
+-------------------------------------------------------------------------------------
+File name can't contains "*:<>?//\|. 
+
+
+
+   at WindowsFormsApp1.Form1.GetFileInfo(String FilePath) in D:\windowsform\WindowsFormsApp1\WindowsFormsApp1\Form1.cs:line 383
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  11/3/2018 2:30:05 PM-----------------
+-------------------------------------------------------------------------------------
+SqlDateTime overflow. Must be between 1/1/1753 12:00:00 AM and 12/31/9999 11:59:59 PM.
+
+
+
+   at System.Data.SqlClient.TdsParser.TdsExecuteRPC(SqlCommand cmd, _SqlRPC[] rpcArray, Int32 timeout, Boolean inSchema, SqlNotificationRequest notificationRequest, TdsParserStateObject stateObj, Boolean isCommandProc, Boolean sync, TaskCompletionSource`1 completion, Int32 startRpc, Int32 startParam)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at DAL.Repository.FileInformation.UploadFile(FileInfo file, Int32 id) in D:\windowsform\WindowsFormsApp1\Repository\Repository\FileInformation.cs:line 95
+   at WindowsFormsApp1.Form1.LoadSubDirs(String directory, Int32 PresentFolderid, Int32 Rootid) in D:\windowsform\WindowsFormsApp1\WindowsFormsApp1\Form1.cs:line 229
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  11/3/2018 2:30:05 PM-----------------
+-------------------------------------------------------------------------------------
+File name can't contains "*:<>?//\|. 
+
+
+
+   at WindowsFormsApp1.Form1.GetFileInfo(String FilePath) in D:\windowsform\WindowsFormsApp1\WindowsFormsApp1\Form1.cs:line 383
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  11/3/2018 2:30:05 PM-----------------
+-------------------------------------------------------------------------------------
+SqlDateTime overflow. Must be between 1/1/1753 12:00:00 AM and 12/31/9999 11:59:59 PM.
+
+
+
+   at System.Data.SqlClient.TdsParser.TdsExecuteRPC(SqlCommand cmd, _SqlRPC[] rpcArray, Int32 timeout, Boolean inSchema, SqlNotificationRequest notificationRequest, TdsParserStateObject stateObj, Boolean isCommandProc, Boolean sync, TaskCompletionSource`1 completion, Int32 startRpc, Int32 startParam)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at DAL.Repository.FileInformation.UploadFile(FileInfo file, Int32 id) in D:\windowsform\WindowsFormsApp1\Repository\Repository\FileInformation.cs:line 95
+   at WindowsFormsApp1.Form1.LoadSubDirs(String directory, Int32 PresentFolderid, Int32 Rootid) in D:\windowsform\WindowsFormsApp1\WindowsFormsApp1\Form1.cs:line 229
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  11/3/2018 2:30:05 PM-----------------
+-------------------------------------------------------------------------------------
+File name can't contains "*:<>?//\|. 
+
+
+
+   at WindowsFormsApp1.Form1.GetFileInfo(String FilePath) in D:\windowsform\WindowsFormsApp1\WindowsFormsApp1\Form1.cs:line 383
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  11/3/2018 2:30:05 PM-----------------
+-------------------------------------------------------------------------------------
+SqlDateTime overflow. Must be between 1/1/1753 12:00:00 AM and 12/31/9999 11:59:59 PM.
+
+
+
+   at System.Data.SqlClient.TdsParser.TdsExecuteRPC(SqlCommand cmd, _SqlRPC[] rpcArray, Int32 timeout, Boolean inSchema, SqlNotificationRequest notificationRequest, TdsParserStateObject stateObj, Boolean isCommandProc, Boolean sync, TaskCompletionSource`1 completion, Int32 startRpc, Int32 startParam)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at DAL.Repository.FileInformation.UploadFile(FileInfo file, Int32 id) in D:\windowsform\WindowsFormsApp1\Repository\Repository\FileInformation.cs:line 95
+   at WindowsFormsApp1.Form1.LoadSubDirs(String directory, Int32 PresentFolderid, Int32 Rootid) in D:\windowsform\WindowsFormsApp1\WindowsFormsApp1\Form1.cs:line 229
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  11/3/2018 2:30:05 PM-----------------
+-------------------------------------------------------------------------------------
+File name can't contains "*:<>?//\|. 
+
+
+
+   at WindowsFormsApp1.Form1.GetFileInfo(String FilePath) in D:\windowsform\WindowsFormsApp1\WindowsFormsApp1\Form1.cs:line 383
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  11/3/2018 2:30:05 PM-----------------
+-------------------------------------------------------------------------------------
+SqlDateTime overflow. Must be between 1/1/1753 12:00:00 AM and 12/31/9999 11:59:59 PM.
+
+
+
+   at System.Data.SqlClient.TdsParser.TdsExecuteRPC(SqlCommand cmd, _SqlRPC[] rpcArray, Int32 timeout, Boolean inSchema, SqlNotificationRequest notificationRequest, TdsParserStateObject stateObj, Boolean isCommandProc, Boolean sync, TaskCompletionSource`1 completion, Int32 startRpc, Int32 startParam)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at DAL.Repository.FileInformation.UploadFile(FileInfo file, Int32 id) in D:\windowsform\WindowsFormsApp1\Repository\Repository\FileInformation.cs:line 95
+   at WindowsFormsApp1.Form1.LoadSubDirs(String directory, Int32 PresentFolderid, Int32 Rootid) in D:\windowsform\WindowsFormsApp1\WindowsFormsApp1\Form1.cs:line 229
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  11/3/2018 2:37:10 PM-----------------
+-------------------------------------------------------------------------------------
+File name can't contains "*:<>?//\|. 
+
+
+
+   at WindowsFormsApp1.Form1.GetFileInfo(String FilePath) in D:\windowsform\WindowsFormsApp1\WindowsFormsApp1\Form1.cs:line 384
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  11/3/2018 2:37:10 PM-----------------
+-------------------------------------------------------------------------------------
+File name can't contains "*:<>?//\|. 
+
+
+
+   at WindowsFormsApp1.Form1.GetFileInfo(String FilePath) in D:\windowsform\WindowsFormsApp1\WindowsFormsApp1\Form1.cs:line 384
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  11/3/2018 2:37:10 PM-----------------
+-------------------------------------------------------------------------------------
+SqlDateTime overflow. Must be between 1/1/1753 12:00:00 AM and 12/31/9999 11:59:59 PM.
+
+
+
+   at System.Data.SqlClient.TdsParser.TdsExecuteRPC(SqlCommand cmd, _SqlRPC[] rpcArray, Int32 timeout, Boolean inSchema, SqlNotificationRequest notificationRequest, TdsParserStateObject stateObj, Boolean isCommandProc, Boolean sync, TaskCompletionSource`1 completion, Int32 startRpc, Int32 startParam)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at DAL.Repository.FileInformation.UploadFile(FileInfo file, Int32 id) in D:\windowsform\WindowsFormsApp1\Repository\Repository\FileInformation.cs:line 95
+   at WindowsFormsApp1.Form1.LoadSubDirs(String directory, Int32 PresentFolderid, Int32 Rootid) in D:\windowsform\WindowsFormsApp1\WindowsFormsApp1\Form1.cs:line 230
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  11/3/2018 2:37:10 PM-----------------
+-------------------------------------------------------------------------------------
+File name can't contains "*:<>?//\|. 
+
+
+
+   at WindowsFormsApp1.Form1.GetFileInfo(String FilePath) in D:\windowsform\WindowsFormsApp1\WindowsFormsApp1\Form1.cs:line 384
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  11/3/2018 2:37:10 PM-----------------
+-------------------------------------------------------------------------------------
+SqlDateTime overflow. Must be between 1/1/1753 12:00:00 AM and 12/31/9999 11:59:59 PM.
+
+
+
+   at System.Data.SqlClient.TdsParser.TdsExecuteRPC(SqlCommand cmd, _SqlRPC[] rpcArray, Int32 timeout, Boolean inSchema, SqlNotificationRequest notificationRequest, TdsParserStateObject stateObj, Boolean isCommandProc, Boolean sync, TaskCompletionSource`1 completion, Int32 startRpc, Int32 startParam)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at DAL.Repository.FileInformation.UploadFile(FileInfo file, Int32 id) in D:\windowsform\WindowsFormsApp1\Repository\Repository\FileInformation.cs:line 95
+   at WindowsFormsApp1.Form1.LoadSubDirs(String directory, Int32 PresentFolderid, Int32 Rootid) in D:\windowsform\WindowsFormsApp1\WindowsFormsApp1\Form1.cs:line 230
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  11/3/2018 2:37:10 PM-----------------
+-------------------------------------------------------------------------------------
+File name can't contains "*:<>?//\|. 
+
+
+
+   at WindowsFormsApp1.Form1.GetFileInfo(String FilePath) in D:\windowsform\WindowsFormsApp1\WindowsFormsApp1\Form1.cs:line 384
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  11/3/2018 2:37:10 PM-----------------
+-------------------------------------------------------------------------------------
+SqlDateTime overflow. Must be between 1/1/1753 12:00:00 AM and 12/31/9999 11:59:59 PM.
+
+
+
+   at System.Data.SqlClient.TdsParser.TdsExecuteRPC(SqlCommand cmd, _SqlRPC[] rpcArray, Int32 timeout, Boolean inSchema, SqlNotificationRequest notificationRequest, TdsParserStateObject stateObj, Boolean isCommandProc, Boolean sync, TaskCompletionSource`1 completion, Int32 startRpc, Int32 startParam)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at DAL.Repository.FileInformation.UploadFile(FileInfo file, Int32 id) in D:\windowsform\WindowsFormsApp1\Repository\Repository\FileInformation.cs:line 95
+   at WindowsFormsApp1.Form1.LoadSubDirs(String directory, Int32 PresentFolderid, Int32 Rootid) in D:\windowsform\WindowsFormsApp1\WindowsFormsApp1\Form1.cs:line 230
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  11/3/2018 2:37:10 PM-----------------
+-------------------------------------------------------------------------------------
+File name can't contains "*:<>?//\|. 
+
+
+
+   at WindowsFormsApp1.Form1.GetFileInfo(String FilePath) in D:\windowsform\WindowsFormsApp1\WindowsFormsApp1\Form1.cs:line 384
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  11/3/2018 2:37:10 PM-----------------
+-------------------------------------------------------------------------------------
+SqlDateTime overflow. Must be between 1/1/1753 12:00:00 AM and 12/31/9999 11:59:59 PM.
+
+
+
+   at System.Data.SqlClient.TdsParser.TdsExecuteRPC(SqlCommand cmd, _SqlRPC[] rpcArray, Int32 timeout, Boolean inSchema, SqlNotificationRequest notificationRequest, TdsParserStateObject stateObj, Boolean isCommandProc, Boolean sync, TaskCompletionSource`1 completion, Int32 startRpc, Int32 startParam)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at DAL.Repository.FileInformation.UploadFile(FileInfo file, Int32 id) in D:\windowsform\WindowsFormsApp1\Repository\Repository\FileInformation.cs:line 95
+   at WindowsFormsApp1.Form1.LoadSubDirs(String directory, Int32 PresentFolderid, Int32 Rootid) in D:\windowsform\WindowsFormsApp1\WindowsFormsApp1\Form1.cs:line 230
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  11/3/2018 2:37:10 PM-----------------
+-------------------------------------------------------------------------------------
+File name can't contains "*:<>?//\|. 
+
+
+
+   at WindowsFormsApp1.Form1.GetFileInfo(String FilePath) in D:\windowsform\WindowsFormsApp1\WindowsFormsApp1\Form1.cs:line 384
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  11/3/2018 2:37:10 PM-----------------
+-------------------------------------------------------------------------------------
+SqlDateTime overflow. Must be between 1/1/1753 12:00:00 AM and 12/31/9999 11:59:59 PM.
+
+
+
+   at System.Data.SqlClient.TdsParser.TdsExecuteRPC(SqlCommand cmd, _SqlRPC[] rpcArray, Int32 timeout, Boolean inSchema, SqlNotificationRequest notificationRequest, TdsParserStateObject stateObj, Boolean isCommandProc, Boolean sync, TaskCompletionSource`1 completion, Int32 startRpc, Int32 startParam)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at DAL.Repository.FileInformation.UploadFile(FileInfo file, Int32 id) in D:\windowsform\WindowsFormsApp1\Repository\Repository\FileInformation.cs:line 95
+   at WindowsFormsApp1.Form1.LoadSubDirs(String directory, Int32 PresentFolderid, Int32 Rootid) in D:\windowsform\WindowsFormsApp1\WindowsFormsApp1\Form1.cs:line 230
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  11/3/2018 2:37:10 PM-----------------
+-------------------------------------------------------------------------------------
+File name can't contains "*:<>?//\|. 
+
+
+
+   at WindowsFormsApp1.Form1.GetFileInfo(String FilePath) in D:\windowsform\WindowsFormsApp1\WindowsFormsApp1\Form1.cs:line 384
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  11/3/2018 2:37:10 PM-----------------
+-------------------------------------------------------------------------------------
+SqlDateTime overflow. Must be between 1/1/1753 12:00:00 AM and 12/31/9999 11:59:59 PM.
+
+
+
+   at System.Data.SqlClient.TdsParser.TdsExecuteRPC(SqlCommand cmd, _SqlRPC[] rpcArray, Int32 timeout, Boolean inSchema, SqlNotificationRequest notificationRequest, TdsParserStateObject stateObj, Boolean isCommandProc, Boolean sync, TaskCompletionSource`1 completion, Int32 startRpc, Int32 startParam)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at DAL.Repository.FileInformation.UploadFile(FileInfo file, Int32 id) in D:\windowsform\WindowsFormsApp1\Repository\Repository\FileInformation.cs:line 95
+   at WindowsFormsApp1.Form1.LoadSubDirs(String directory, Int32 PresentFolderid, Int32 Rootid) in D:\windowsform\WindowsFormsApp1\WindowsFormsApp1\Form1.cs:line 230
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  11/3/2018 2:40:12 PM-----------------
+-------------------------------------------------------------------------------------
+Please Browse the folder
+
+
+
+   at WindowsFormsApp1.Form1.Remove_Click(Object sender, EventArgs e) in D:\windowsform\WindowsFormsApp1\WindowsFormsApp1\Form1.cs:line 107
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  11/3/2018 2:40:48 PM-----------------
+-------------------------------------------------------------------------------------
+Please Browse the folder
+
+
+
+   at WindowsFormsApp1.Form1.Remove_Click(Object sender, EventArgs e) in D:\windowsform\WindowsFormsApp1\WindowsFormsApp1\Form1.cs:line 107
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  11/3/2018 2:41:00 PM-----------------
+-------------------------------------------------------------------------------------
+Please Browse the folder
+
+
+
+   at WindowsFormsApp1.Form1.Add_Click(Object sender, EventArgs e) in D:\windowsform\WindowsFormsApp1\WindowsFormsApp1\Form1.cs:line 60
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  11/3/2018 2:41:43 PM-----------------
+-------------------------------------------------------------------------------------
+Please Browse the folder
+
+
+
+   at WindowsFormsApp1.Form1.Add_Click(Object sender, EventArgs e) in D:\windowsform\WindowsFormsApp1\WindowsFormsApp1\Form1.cs:line 60
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  11/3/2018 2:41:46 PM-----------------
+-------------------------------------------------------------------------------------
+Please Browse the folder
+
+
+
+   at WindowsFormsApp1.Form1.Add_Click(Object sender, EventArgs e) in D:\windowsform\WindowsFormsApp1\WindowsFormsApp1\Form1.cs:line 60
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  11/3/2018 2:41:46 PM-----------------
+-------------------------------------------------------------------------------------
+Please Browse the folder
+
+
+
+   at WindowsFormsApp1.Form1.Add_Click(Object sender, EventArgs e) in D:\windowsform\WindowsFormsApp1\WindowsFormsApp1\Form1.cs:line 60
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  11/3/2018 2:41:46 PM-----------------
+-------------------------------------------------------------------------------------
+Please Browse the folder
+
+
+
+   at WindowsFormsApp1.Form1.Add_Click(Object sender, EventArgs e) in D:\windowsform\WindowsFormsApp1\WindowsFormsApp1\Form1.cs:line 60
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  11/3/2018 2:41:48 PM-----------------
+-------------------------------------------------------------------------------------
+Please Browse the folder
+
+
+
+   at WindowsFormsApp1.Form1.Add_Click(Object sender, EventArgs e) in D:\windowsform\WindowsFormsApp1\WindowsFormsApp1\Form1.cs:line 60
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  11/3/2018 2:41:48 PM-----------------
+-------------------------------------------------------------------------------------
+Please Browse the folder
+
+
+
+   at WindowsFormsApp1.Form1.Add_Click(Object sender, EventArgs e) in D:\windowsform\WindowsFormsApp1\WindowsFormsApp1\Form1.cs:line 60
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  11/3/2018 2:41:49 PM-----------------
+-------------------------------------------------------------------------------------
+Please Browse the folder
+
+
+
+   at WindowsFormsApp1.Form1.Add_Click(Object sender, EventArgs e) in D:\windowsform\WindowsFormsApp1\WindowsFormsApp1\Form1.cs:line 60
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  11/3/2018 2:44:05 PM-----------------
+-------------------------------------------------------------------------------------
+Please Browse the folder
+
+
+
+   at WindowsFormsApp1.Form1.Add_Click(Object sender, EventArgs e) in D:\windowsform\WindowsFormsApp1\WindowsFormsApp1\Form1.cs:line 60
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  11/3/2018 2:52:06 PM-----------------
+-------------------------------------------------------------------------------------
+Exception of type 'System.Exception' was thrown.
+
+
+
+   at WindowsFormsApp1.Form1.Run_Click(Object sender, EventArgs e) in D:\windowsform\WindowsFormsApp1\WindowsFormsApp1\Form1.cs:line 156
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  11/3/2018 2:52:12 PM-----------------
+-------------------------------------------------------------------------------------
+Please Browse the folder
+
+
+
+   at WindowsFormsApp1.Form1.Add_Click(Object sender, EventArgs e) in D:\windowsform\WindowsFormsApp1\WindowsFormsApp1\Form1.cs:line 63
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  11/3/2018 2:52:17 PM-----------------
+-------------------------------------------------------------------------------------
+Please Browse the folder
+
+
+
+   at WindowsFormsApp1.Form1.Remove_Click(Object sender, EventArgs e) in D:\windowsform\WindowsFormsApp1\WindowsFormsApp1\Form1.cs:line 110
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  11/3/2018 2:52:30 PM-----------------
+-------------------------------------------------------------------------------------
+Please Select Folder
+
+
+
+   at WindowsFormsApp1.Form1.Remove_Click(Object sender, EventArgs e) in D:\windowsform\WindowsFormsApp1\WindowsFormsApp1\Form1.cs:line 114
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  11/3/2018 2:53:04 PM-----------------
+-------------------------------------------------------------------------------------
+Please Browse the folder
+
+
+
+   at WindowsFormsApp1.Form1.Add_Click(Object sender, EventArgs e) in D:\windowsform\WindowsFormsApp1\WindowsFormsApp1\Form1.cs:line 63
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  11/3/2018 2:53:10 PM-----------------
+-------------------------------------------------------------------------------------
+Please Select Folder
+
+
+
+   at WindowsFormsApp1.Form1.Remove_Click(Object sender, EventArgs e) in D:\windowsform\WindowsFormsApp1\WindowsFormsApp1\Form1.cs:line 114
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  11/3/2018 2:53:20 PM-----------------
+-------------------------------------------------------------------------------------
+File name can't contains "*:<>?//\|. 
+
+
+
+   at WindowsFormsApp1.Form1.GetFileInfo(String FilePath) in D:\windowsform\WindowsFormsApp1\WindowsFormsApp1\Form1.cs:line 388
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  11/3/2018 2:53:20 PM-----------------
+-------------------------------------------------------------------------------------
+File name can't contains "*:<>?//\|. 
+
+
+
+   at WindowsFormsApp1.Form1.GetFileInfo(String FilePath) in D:\windowsform\WindowsFormsApp1\WindowsFormsApp1\Form1.cs:line 388
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  11/3/2018 2:53:20 PM-----------------
+-------------------------------------------------------------------------------------
+SqlDateTime overflow. Must be between 1/1/1753 12:00:00 AM and 12/31/9999 11:59:59 PM.
+
+
+
+   at System.Data.SqlClient.TdsParser.TdsExecuteRPC(SqlCommand cmd, _SqlRPC[] rpcArray, Int32 timeout, Boolean inSchema, SqlNotificationRequest notificationRequest, TdsParserStateObject stateObj, Boolean isCommandProc, Boolean sync, TaskCompletionSource`1 completion, Int32 startRpc, Int32 startParam)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at DAL.Repository.FileInformation.UploadFile(FileInfo file, Int32 id) in D:\windowsform\WindowsFormsApp1\Repository\Repository\FileInformation.cs:line 95
+   at WindowsFormsApp1.Form1.LoadSubDirs(String directory, Int32 PresentFolderid, Int32 Rootid) in D:\windowsform\WindowsFormsApp1\WindowsFormsApp1\Form1.cs:line 234
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  11/3/2018 2:53:20 PM-----------------
+-------------------------------------------------------------------------------------
+File name can't contains "*:<>?//\|. 
+
+
+
+   at WindowsFormsApp1.Form1.GetFileInfo(String FilePath) in D:\windowsform\WindowsFormsApp1\WindowsFormsApp1\Form1.cs:line 388
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  11/3/2018 2:53:20 PM-----------------
+-------------------------------------------------------------------------------------
+SqlDateTime overflow. Must be between 1/1/1753 12:00:00 AM and 12/31/9999 11:59:59 PM.
+
+
+
+   at System.Data.SqlClient.TdsParser.TdsExecuteRPC(SqlCommand cmd, _SqlRPC[] rpcArray, Int32 timeout, Boolean inSchema, SqlNotificationRequest notificationRequest, TdsParserStateObject stateObj, Boolean isCommandProc, Boolean sync, TaskCompletionSource`1 completion, Int32 startRpc, Int32 startParam)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at DAL.Repository.FileInformation.UploadFile(FileInfo file, Int32 id) in D:\windowsform\WindowsFormsApp1\Repository\Repository\FileInformation.cs:line 95
+   at WindowsFormsApp1.Form1.LoadSubDirs(String directory, Int32 PresentFolderid, Int32 Rootid) in D:\windowsform\WindowsFormsApp1\WindowsFormsApp1\Form1.cs:line 234
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  11/3/2018 2:53:20 PM-----------------
+-------------------------------------------------------------------------------------
+File name can't contains "*:<>?//\|. 
+
+
+
+   at WindowsFormsApp1.Form1.GetFileInfo(String FilePath) in D:\windowsform\WindowsFormsApp1\WindowsFormsApp1\Form1.cs:line 388
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  11/3/2018 2:53:20 PM-----------------
+-------------------------------------------------------------------------------------
+SqlDateTime overflow. Must be between 1/1/1753 12:00:00 AM and 12/31/9999 11:59:59 PM.
+
+
+
+   at System.Data.SqlClient.TdsParser.TdsExecuteRPC(SqlCommand cmd, _SqlRPC[] rpcArray, Int32 timeout, Boolean inSchema, SqlNotificationRequest notificationRequest, TdsParserStateObject stateObj, Boolean isCommandProc, Boolean sync, TaskCompletionSource`1 completion, Int32 startRpc, Int32 startParam)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at DAL.Repository.FileInformation.UploadFile(FileInfo file, Int32 id) in D:\windowsform\WindowsFormsApp1\Repository\Repository\FileInformation.cs:line 95
+   at WindowsFormsApp1.Form1.LoadSubDirs(String directory, Int32 PresentFolderid, Int32 Rootid) in D:\windowsform\WindowsFormsApp1\WindowsFormsApp1\Form1.cs:line 234
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  11/3/2018 2:53:20 PM-----------------
+-------------------------------------------------------------------------------------
+File name can't contains "*:<>?//\|. 
+
+
+
+   at WindowsFormsApp1.Form1.GetFileInfo(String FilePath) in D:\windowsform\WindowsFormsApp1\WindowsFormsApp1\Form1.cs:line 388
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  11/3/2018 2:53:20 PM-----------------
+-------------------------------------------------------------------------------------
+SqlDateTime overflow. Must be between 1/1/1753 12:00:00 AM and 12/31/9999 11:59:59 PM.
+
+
+
+   at System.Data.SqlClient.TdsParser.TdsExecuteRPC(SqlCommand cmd, _SqlRPC[] rpcArray, Int32 timeout, Boolean inSchema, SqlNotificationRequest notificationRequest, TdsParserStateObject stateObj, Boolean isCommandProc, Boolean sync, TaskCompletionSource`1 completion, Int32 startRpc, Int32 startParam)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at DAL.Repository.FileInformation.UploadFile(FileInfo file, Int32 id) in D:\windowsform\WindowsFormsApp1\Repository\Repository\FileInformation.cs:line 95
+   at WindowsFormsApp1.Form1.LoadSubDirs(String directory, Int32 PresentFolderid, Int32 Rootid) in D:\windowsform\WindowsFormsApp1\WindowsFormsApp1\Form1.cs:line 234
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  11/3/2018 2:53:20 PM-----------------
+-------------------------------------------------------------------------------------
+File name can't contains "*:<>?//\|. 
+
+
+
+   at WindowsFormsApp1.Form1.GetFileInfo(String FilePath) in D:\windowsform\WindowsFormsApp1\WindowsFormsApp1\Form1.cs:line 388
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  11/3/2018 2:53:20 PM-----------------
+-------------------------------------------------------------------------------------
+SqlDateTime overflow. Must be between 1/1/1753 12:00:00 AM and 12/31/9999 11:59:59 PM.
+
+
+
+   at System.Data.SqlClient.TdsParser.TdsExecuteRPC(SqlCommand cmd, _SqlRPC[] rpcArray, Int32 timeout, Boolean inSchema, SqlNotificationRequest notificationRequest, TdsParserStateObject stateObj, Boolean isCommandProc, Boolean sync, TaskCompletionSource`1 completion, Int32 startRpc, Int32 startParam)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at DAL.Repository.FileInformation.UploadFile(FileInfo file, Int32 id) in D:\windowsform\WindowsFormsApp1\Repository\Repository\FileInformation.cs:line 95
+   at WindowsFormsApp1.Form1.LoadSubDirs(String directory, Int32 PresentFolderid, Int32 Rootid) in D:\windowsform\WindowsFormsApp1\WindowsFormsApp1\Form1.cs:line 234
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  11/3/2018 2:53:20 PM-----------------
+-------------------------------------------------------------------------------------
+File name can't contains "*:<>?//\|. 
+
+
+
+   at WindowsFormsApp1.Form1.GetFileInfo(String FilePath) in D:\windowsform\WindowsFormsApp1\WindowsFormsApp1\Form1.cs:line 388
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  11/3/2018 2:53:20 PM-----------------
+-------------------------------------------------------------------------------------
+SqlDateTime overflow. Must be between 1/1/1753 12:00:00 AM and 12/31/9999 11:59:59 PM.
+
+
+
+   at System.Data.SqlClient.TdsParser.TdsExecuteRPC(SqlCommand cmd, _SqlRPC[] rpcArray, Int32 timeout, Boolean inSchema, SqlNotificationRequest notificationRequest, TdsParserStateObject stateObj, Boolean isCommandProc, Boolean sync, TaskCompletionSource`1 completion, Int32 startRpc, Int32 startParam)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at DAL.Repository.FileInformation.UploadFile(FileInfo file, Int32 id) in D:\windowsform\WindowsFormsApp1\Repository\Repository\FileInformation.cs:line 95
+   at WindowsFormsApp1.Form1.LoadSubDirs(String directory, Int32 PresentFolderid, Int32 Rootid) in D:\windowsform\WindowsFormsApp1\WindowsFormsApp1\Form1.cs:line 234
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  11/3/2018 2:53:20 PM-----------------
+-------------------------------------------------------------------------------------
+File name can't contains "*:<>?//\|. 
+
+
+
+   at WindowsFormsApp1.Form1.GetFileInfo(String FilePath) in D:\windowsform\WindowsFormsApp1\WindowsFormsApp1\Form1.cs:line 388
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  11/3/2018 2:53:20 PM-----------------
+-------------------------------------------------------------------------------------
+SqlDateTime overflow. Must be between 1/1/1753 12:00:00 AM and 12/31/9999 11:59:59 PM.
+
+
+
+   at System.Data.SqlClient.TdsParser.TdsExecuteRPC(SqlCommand cmd, _SqlRPC[] rpcArray, Int32 timeout, Boolean inSchema, SqlNotificationRequest notificationRequest, TdsParserStateObject stateObj, Boolean isCommandProc, Boolean sync, TaskCompletionSource`1 completion, Int32 startRpc, Int32 startParam)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at DAL.Repository.FileInformation.UploadFile(FileInfo file, Int32 id) in D:\windowsform\WindowsFormsApp1\Repository\Repository\FileInformation.cs:line 95
+   at WindowsFormsApp1.Form1.LoadSubDirs(String directory, Int32 PresentFolderid, Int32 Rootid) in D:\windowsform\WindowsFormsApp1\WindowsFormsApp1\Form1.cs:line 234
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  11/3/2018 2:53:20 PM-----------------
+-------------------------------------------------------------------------------------
+File name can't contains "*:<>?//\|. 
+
+
+
+   at WindowsFormsApp1.Form1.GetFileInfo(String FilePath) in D:\windowsform\WindowsFormsApp1\WindowsFormsApp1\Form1.cs:line 388
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  11/3/2018 2:53:21 PM-----------------
+-------------------------------------------------------------------------------------
+SqlDateTime overflow. Must be between 1/1/1753 12:00:00 AM and 12/31/9999 11:59:59 PM.
+
+
+
+   at System.Data.SqlClient.TdsParser.TdsExecuteRPC(SqlCommand cmd, _SqlRPC[] rpcArray, Int32 timeout, Boolean inSchema, SqlNotificationRequest notificationRequest, TdsParserStateObject stateObj, Boolean isCommandProc, Boolean sync, TaskCompletionSource`1 completion, Int32 startRpc, Int32 startParam)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at DAL.Repository.FileInformation.UploadFile(FileInfo file, Int32 id) in D:\windowsform\WindowsFormsApp1\Repository\Repository\FileInformation.cs:line 95
+   at WindowsFormsApp1.Form1.LoadSubDirs(String directory, Int32 PresentFolderid, Int32 Rootid) in D:\windowsform\WindowsFormsApp1\WindowsFormsApp1\Form1.cs:line 234
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  11/3/2018 2:53:21 PM-----------------
+-------------------------------------------------------------------------------------
+File name can't contains "*:<>?//\|. 
+
+
+
+   at WindowsFormsApp1.Form1.GetFileInfo(String FilePath) in D:\windowsform\WindowsFormsApp1\WindowsFormsApp1\Form1.cs:line 388
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  11/3/2018 2:53:21 PM-----------------
+-------------------------------------------------------------------------------------
+SqlDateTime overflow. Must be between 1/1/1753 12:00:00 AM and 12/31/9999 11:59:59 PM.
+
+
+
+   at System.Data.SqlClient.TdsParser.TdsExecuteRPC(SqlCommand cmd, _SqlRPC[] rpcArray, Int32 timeout, Boolean inSchema, SqlNotificationRequest notificationRequest, TdsParserStateObject stateObj, Boolean isCommandProc, Boolean sync, TaskCompletionSource`1 completion, Int32 startRpc, Int32 startParam)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at DAL.Repository.FileInformation.UploadFile(FileInfo file, Int32 id) in D:\windowsform\WindowsFormsApp1\Repository\Repository\FileInformation.cs:line 95
+   at WindowsFormsApp1.Form1.LoadSubDirs(String directory, Int32 PresentFolderid, Int32 Rootid) in D:\windowsform\WindowsFormsApp1\WindowsFormsApp1\Form1.cs:line 234
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  11/3/2018 2:53:21 PM-----------------
+-------------------------------------------------------------------------------------
+File name can't contains "*:<>?//\|. 
+
+
+
+   at WindowsFormsApp1.Form1.GetFileInfo(String FilePath) in D:\windowsform\WindowsFormsApp1\WindowsFormsApp1\Form1.cs:line 388
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  11/3/2018 2:53:21 PM-----------------
+-------------------------------------------------------------------------------------
+SqlDateTime overflow. Must be between 1/1/1753 12:00:00 AM and 12/31/9999 11:59:59 PM.
+
+
+
+   at System.Data.SqlClient.TdsParser.TdsExecuteRPC(SqlCommand cmd, _SqlRPC[] rpcArray, Int32 timeout, Boolean inSchema, SqlNotificationRequest notificationRequest, TdsParserStateObject stateObj, Boolean isCommandProc, Boolean sync, TaskCompletionSource`1 completion, Int32 startRpc, Int32 startParam)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at DAL.Repository.FileInformation.UploadFile(FileInfo file, Int32 id) in D:\windowsform\WindowsFormsApp1\Repository\Repository\FileInformation.cs:line 95
+   at WindowsFormsApp1.Form1.LoadSubDirs(String directory, Int32 PresentFolderid, Int32 Rootid) in D:\windowsform\WindowsFormsApp1\WindowsFormsApp1\Form1.cs:line 234
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  11/3/2018 2:53:21 PM-----------------
+-------------------------------------------------------------------------------------
+File name can't contains "*:<>?//\|. 
+
+
+
+   at WindowsFormsApp1.Form1.GetFileInfo(String FilePath) in D:\windowsform\WindowsFormsApp1\WindowsFormsApp1\Form1.cs:line 388
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  11/3/2018 2:53:21 PM-----------------
+-------------------------------------------------------------------------------------
+SqlDateTime overflow. Must be between 1/1/1753 12:00:00 AM and 12/31/9999 11:59:59 PM.
+
+
+
+   at System.Data.SqlClient.TdsParser.TdsExecuteRPC(SqlCommand cmd, _SqlRPC[] rpcArray, Int32 timeout, Boolean inSchema, SqlNotificationRequest notificationRequest, TdsParserStateObject stateObj, Boolean isCommandProc, Boolean sync, TaskCompletionSource`1 completion, Int32 startRpc, Int32 startParam)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at DAL.Repository.FileInformation.UploadFile(FileInfo file, Int32 id) in D:\windowsform\WindowsFormsApp1\Repository\Repository\FileInformation.cs:line 95
+   at WindowsFormsApp1.Form1.LoadSubDirs(String directory, Int32 PresentFolderid, Int32 Rootid) in D:\windowsform\WindowsFormsApp1\WindowsFormsApp1\Form1.cs:line 234
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  11/3/2018 2:53:21 PM-----------------
+-------------------------------------------------------------------------------------
+File name can't contains "*:<>?//\|. 
+
+
+
+   at WindowsFormsApp1.Form1.GetFileInfo(String FilePath) in D:\windowsform\WindowsFormsApp1\WindowsFormsApp1\Form1.cs:line 388
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  11/3/2018 2:53:21 PM-----------------
+-------------------------------------------------------------------------------------
+SqlDateTime overflow. Must be between 1/1/1753 12:00:00 AM and 12/31/9999 11:59:59 PM.
+
+
+
+   at System.Data.SqlClient.TdsParser.TdsExecuteRPC(SqlCommand cmd, _SqlRPC[] rpcArray, Int32 timeout, Boolean inSchema, SqlNotificationRequest notificationRequest, TdsParserStateObject stateObj, Boolean isCommandProc, Boolean sync, TaskCompletionSource`1 completion, Int32 startRpc, Int32 startParam)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at DAL.Repository.FileInformation.UploadFile(FileInfo file, Int32 id) in D:\windowsform\WindowsFormsApp1\Repository\Repository\FileInformation.cs:line 95
+   at WindowsFormsApp1.Form1.LoadSubDirs(String directory, Int32 PresentFolderid, Int32 Rootid) in D:\windowsform\WindowsFormsApp1\WindowsFormsApp1\Form1.cs:line 234
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  11/3/2018 2:53:21 PM-----------------
+-------------------------------------------------------------------------------------
+File name can't contains "*:<>?//\|. 
+
+
+
+   at WindowsFormsApp1.Form1.GetFileInfo(String FilePath) in D:\windowsform\WindowsFormsApp1\WindowsFormsApp1\Form1.cs:line 388
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  11/3/2018 2:53:21 PM-----------------
+-------------------------------------------------------------------------------------
+SqlDateTime overflow. Must be between 1/1/1753 12:00:00 AM and 12/31/9999 11:59:59 PM.
+
+
+
+   at System.Data.SqlClient.TdsParser.TdsExecuteRPC(SqlCommand cmd, _SqlRPC[] rpcArray, Int32 timeout, Boolean inSchema, SqlNotificationRequest notificationRequest, TdsParserStateObject stateObj, Boolean isCommandProc, Boolean sync, TaskCompletionSource`1 completion, Int32 startRpc, Int32 startParam)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at DAL.Repository.FileInformation.UploadFile(FileInfo file, Int32 id) in D:\windowsform\WindowsFormsApp1\Repository\Repository\FileInformation.cs:line 95
+   at WindowsFormsApp1.Form1.LoadSubDirs(String directory, Int32 PresentFolderid, Int32 Rootid) in D:\windowsform\WindowsFormsApp1\WindowsFormsApp1\Form1.cs:line 234
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  11/3/2018 2:53:21 PM-----------------
+-------------------------------------------------------------------------------------
+File name can't contains "*:<>?//\|. 
+
+
+
+   at WindowsFormsApp1.Form1.GetFileInfo(String FilePath) in D:\windowsform\WindowsFormsApp1\WindowsFormsApp1\Form1.cs:line 388
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  11/3/2018 2:53:21 PM-----------------
+-------------------------------------------------------------------------------------
+SqlDateTime overflow. Must be between 1/1/1753 12:00:00 AM and 12/31/9999 11:59:59 PM.
+
+
+
+   at System.Data.SqlClient.TdsParser.TdsExecuteRPC(SqlCommand cmd, _SqlRPC[] rpcArray, Int32 timeout, Boolean inSchema, SqlNotificationRequest notificationRequest, TdsParserStateObject stateObj, Boolean isCommandProc, Boolean sync, TaskCompletionSource`1 completion, Int32 startRpc, Int32 startParam)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at DAL.Repository.FileInformation.UploadFile(FileInfo file, Int32 id) in D:\windowsform\WindowsFormsApp1\Repository\Repository\FileInformation.cs:line 95
+   at WindowsFormsApp1.Form1.LoadSubDirs(String directory, Int32 PresentFolderid, Int32 Rootid) in D:\windowsform\WindowsFormsApp1\WindowsFormsApp1\Form1.cs:line 234
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  11/3/2018 2:53:21 PM-----------------
+-------------------------------------------------------------------------------------
+File name can't contains "*:<>?//\|. 
+
+
+
+   at WindowsFormsApp1.Form1.GetFileInfo(String FilePath) in D:\windowsform\WindowsFormsApp1\WindowsFormsApp1\Form1.cs:line 388
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  11/3/2018 2:53:21 PM-----------------
+-------------------------------------------------------------------------------------
+SqlDateTime overflow. Must be between 1/1/1753 12:00:00 AM and 12/31/9999 11:59:59 PM.
+
+
+
+   at System.Data.SqlClient.TdsParser.TdsExecuteRPC(SqlCommand cmd, _SqlRPC[] rpcArray, Int32 timeout, Boolean inSchema, SqlNotificationRequest notificationRequest, TdsParserStateObject stateObj, Boolean isCommandProc, Boolean sync, TaskCompletionSource`1 completion, Int32 startRpc, Int32 startParam)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at DAL.Repository.FileInformation.UploadFile(FileInfo file, Int32 id) in D:\windowsform\WindowsFormsApp1\Repository\Repository\FileInformation.cs:line 95
+   at WindowsFormsApp1.Form1.LoadSubDirs(String directory, Int32 PresentFolderid, Int32 Rootid) in D:\windowsform\WindowsFormsApp1\WindowsFormsApp1\Form1.cs:line 234
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  11/3/2018 2:53:21 PM-----------------
+-------------------------------------------------------------------------------------
+File name can't contains "*:<>?//\|. 
+
+
+
+   at WindowsFormsApp1.Form1.GetFileInfo(String FilePath) in D:\windowsform\WindowsFormsApp1\WindowsFormsApp1\Form1.cs:line 388
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  11/3/2018 2:53:21 PM-----------------
+-------------------------------------------------------------------------------------
+SqlDateTime overflow. Must be between 1/1/1753 12:00:00 AM and 12/31/9999 11:59:59 PM.
+
+
+
+   at System.Data.SqlClient.TdsParser.TdsExecuteRPC(SqlCommand cmd, _SqlRPC[] rpcArray, Int32 timeout, Boolean inSchema, SqlNotificationRequest notificationRequest, TdsParserStateObject stateObj, Boolean isCommandProc, Boolean sync, TaskCompletionSource`1 completion, Int32 startRpc, Int32 startParam)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at DAL.Repository.FileInformation.UploadFile(FileInfo file, Int32 id) in D:\windowsform\WindowsFormsApp1\Repository\Repository\FileInformation.cs:line 95
+   at WindowsFormsApp1.Form1.LoadSubDirs(String directory, Int32 PresentFolderid, Int32 Rootid) in D:\windowsform\WindowsFormsApp1\WindowsFormsApp1\Form1.cs:line 234
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  11/3/2018 2:53:21 PM-----------------
+-------------------------------------------------------------------------------------
+File name can't contains "*:<>?//\|. 
+
+
+
+   at WindowsFormsApp1.Form1.GetFileInfo(String FilePath) in D:\windowsform\WindowsFormsApp1\WindowsFormsApp1\Form1.cs:line 388
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  11/3/2018 2:53:21 PM-----------------
+-------------------------------------------------------------------------------------
+SqlDateTime overflow. Must be between 1/1/1753 12:00:00 AM and 12/31/9999 11:59:59 PM.
+
+
+
+   at System.Data.SqlClient.TdsParser.TdsExecuteRPC(SqlCommand cmd, _SqlRPC[] rpcArray, Int32 timeout, Boolean inSchema, SqlNotificationRequest notificationRequest, TdsParserStateObject stateObj, Boolean isCommandProc, Boolean sync, TaskCompletionSource`1 completion, Int32 startRpc, Int32 startParam)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at DAL.Repository.FileInformation.UploadFile(FileInfo file, Int32 id) in D:\windowsform\WindowsFormsApp1\Repository\Repository\FileInformation.cs:line 95
+   at WindowsFormsApp1.Form1.LoadSubDirs(String directory, Int32 PresentFolderid, Int32 Rootid) in D:\windowsform\WindowsFormsApp1\WindowsFormsApp1\Form1.cs:line 234
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  11/3/2018 2:53:21 PM-----------------
+-------------------------------------------------------------------------------------
+File name can't contains "*:<>?//\|. 
+
+
+
+   at WindowsFormsApp1.Form1.GetFileInfo(String FilePath) in D:\windowsform\WindowsFormsApp1\WindowsFormsApp1\Form1.cs:line 388
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  11/3/2018 2:53:21 PM-----------------
+-------------------------------------------------------------------------------------
+SqlDateTime overflow. Must be between 1/1/1753 12:00:00 AM and 12/31/9999 11:59:59 PM.
+
+
+
+   at System.Data.SqlClient.TdsParser.TdsExecuteRPC(SqlCommand cmd, _SqlRPC[] rpcArray, Int32 timeout, Boolean inSchema, SqlNotificationRequest notificationRequest, TdsParserStateObject stateObj, Boolean isCommandProc, Boolean sync, TaskCompletionSource`1 completion, Int32 startRpc, Int32 startParam)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at DAL.Repository.FileInformation.UploadFile(FileInfo file, Int32 id) in D:\windowsform\WindowsFormsApp1\Repository\Repository\FileInformation.cs:line 95
+   at WindowsFormsApp1.Form1.LoadSubDirs(String directory, Int32 PresentFolderid, Int32 Rootid) in D:\windowsform\WindowsFormsApp1\WindowsFormsApp1\Form1.cs:line 234
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  11/3/2018 2:53:21 PM-----------------
+-------------------------------------------------------------------------------------
+File name can't contains "*:<>?//\|. 
+
+
+
+   at WindowsFormsApp1.Form1.GetFileInfo(String FilePath) in D:\windowsform\WindowsFormsApp1\WindowsFormsApp1\Form1.cs:line 388
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  11/3/2018 2:53:21 PM-----------------
+-------------------------------------------------------------------------------------
+SqlDateTime overflow. Must be between 1/1/1753 12:00:00 AM and 12/31/9999 11:59:59 PM.
+
+
+
+   at System.Data.SqlClient.TdsParser.TdsExecuteRPC(SqlCommand cmd, _SqlRPC[] rpcArray, Int32 timeout, Boolean inSchema, SqlNotificationRequest notificationRequest, TdsParserStateObject stateObj, Boolean isCommandProc, Boolean sync, TaskCompletionSource`1 completion, Int32 startRpc, Int32 startParam)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at DAL.Repository.FileInformation.UploadFile(FileInfo file, Int32 id) in D:\windowsform\WindowsFormsApp1\Repository\Repository\FileInformation.cs:line 95
+   at WindowsFormsApp1.Form1.LoadSubDirs(String directory, Int32 PresentFolderid, Int32 Rootid) in D:\windowsform\WindowsFormsApp1\WindowsFormsApp1\Form1.cs:line 234
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  11/3/2018 2:53:21 PM-----------------
+-------------------------------------------------------------------------------------
+Folder name can't contains "*:<>?//\|. 
+
+
+
+   at WindowsFormsApp1.Form1.GetFolderdetails(String directoryPath) in D:\windowsform\WindowsFormsApp1\WindowsFormsApp1\Form1.cs:line 285
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  11/3/2018 2:53:21 PM-----------------
+-------------------------------------------------------------------------------------
+SqlDateTime overflow. Must be between 1/1/1753 12:00:00 AM and 12/31/9999 11:59:59 PM.
+
+
+
+   at System.Data.SqlClient.TdsParser.TdsExecuteRPC(SqlCommand cmd, _SqlRPC[] rpcArray, Int32 timeout, Boolean inSchema, SqlNotificationRequest notificationRequest, TdsParserStateObject stateObj, Boolean isCommandProc, Boolean sync, TaskCompletionSource`1 completion, Int32 startRpc, Int32 startParam)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at DAL.Repository.FileInformation.UploadSubFolder(SubFolder sub, Int32 Rootid) in D:\windowsform\WindowsFormsApp1\Repository\Repository\FileInformation.cs:line 69
+   at WindowsFormsApp1.Form1.LoadSubDirs(String directory, Int32 PresentFolderid, Int32 Rootid) in D:\windowsform\WindowsFormsApp1\WindowsFormsApp1\Form1.cs:line 246
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  11/3/2018 2:53:21 PM-----------------
+-------------------------------------------------------------------------------------
+File name can't contains "*:<>?//\|. 
+
+
+
+   at WindowsFormsApp1.Form1.GetFileInfo(String FilePath) in D:\windowsform\WindowsFormsApp1\WindowsFormsApp1\Form1.cs:line 388
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  11/3/2018 2:53:21 PM-----------------
+-------------------------------------------------------------------------------------
+File name can't contains "*:<>?//\|. 
+
+
+
+   at WindowsFormsApp1.Form1.GetFileInfo(String FilePath) in D:\windowsform\WindowsFormsApp1\WindowsFormsApp1\Form1.cs:line 388
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  11/3/2018 2:53:21 PM-----------------
+-------------------------------------------------------------------------------------
+SqlDateTime overflow. Must be between 1/1/1753 12:00:00 AM and 12/31/9999 11:59:59 PM.
+
+
+
+   at System.Data.SqlClient.TdsParser.TdsExecuteRPC(SqlCommand cmd, _SqlRPC[] rpcArray, Int32 timeout, Boolean inSchema, SqlNotificationRequest notificationRequest, TdsParserStateObject stateObj, Boolean isCommandProc, Boolean sync, TaskCompletionSource`1 completion, Int32 startRpc, Int32 startParam)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at DAL.Repository.FileInformation.UploadFile(FileInfo file, Int32 id) in D:\windowsform\WindowsFormsApp1\Repository\Repository\FileInformation.cs:line 95
+   at WindowsFormsApp1.Form1.LoadSubDirs(String directory, Int32 PresentFolderid, Int32 Rootid) in D:\windowsform\WindowsFormsApp1\WindowsFormsApp1\Form1.cs:line 234
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  11/3/2018 2:53:21 PM-----------------
+-------------------------------------------------------------------------------------
+File name can't contains "*:<>?//\|. 
+
+
+
+   at WindowsFormsApp1.Form1.GetFileInfo(String FilePath) in D:\windowsform\WindowsFormsApp1\WindowsFormsApp1\Form1.cs:line 388
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  11/3/2018 2:53:21 PM-----------------
+-------------------------------------------------------------------------------------
+SqlDateTime overflow. Must be between 1/1/1753 12:00:00 AM and 12/31/9999 11:59:59 PM.
+
+
+
+   at System.Data.SqlClient.TdsParser.TdsExecuteRPC(SqlCommand cmd, _SqlRPC[] rpcArray, Int32 timeout, Boolean inSchema, SqlNotificationRequest notificationRequest, TdsParserStateObject stateObj, Boolean isCommandProc, Boolean sync, TaskCompletionSource`1 completion, Int32 startRpc, Int32 startParam)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at DAL.Repository.FileInformation.UploadFile(FileInfo file, Int32 id) in D:\windowsform\WindowsFormsApp1\Repository\Repository\FileInformation.cs:line 95
+   at WindowsFormsApp1.Form1.LoadSubDirs(String directory, Int32 PresentFolderid, Int32 Rootid) in D:\windowsform\WindowsFormsApp1\WindowsFormsApp1\Form1.cs:line 234
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  11/3/2018 2:53:21 PM-----------------
+-------------------------------------------------------------------------------------
+File name can't contains "*:<>?//\|. 
+
+
+
+   at WindowsFormsApp1.Form1.GetFileInfo(String FilePath) in D:\windowsform\WindowsFormsApp1\WindowsFormsApp1\Form1.cs:line 388
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  11/3/2018 2:53:21 PM-----------------
+-------------------------------------------------------------------------------------
+SqlDateTime overflow. Must be between 1/1/1753 12:00:00 AM and 12/31/9999 11:59:59 PM.
+
+
+
+   at System.Data.SqlClient.TdsParser.TdsExecuteRPC(SqlCommand cmd, _SqlRPC[] rpcArray, Int32 timeout, Boolean inSchema, SqlNotificationRequest notificationRequest, TdsParserStateObject stateObj, Boolean isCommandProc, Boolean sync, TaskCompletionSource`1 completion, Int32 startRpc, Int32 startParam)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at DAL.Repository.FileInformation.UploadFile(FileInfo file, Int32 id) in D:\windowsform\WindowsFormsApp1\Repository\Repository\FileInformation.cs:line 95
+   at WindowsFormsApp1.Form1.LoadSubDirs(String directory, Int32 PresentFolderid, Int32 Rootid) in D:\windowsform\WindowsFormsApp1\WindowsFormsApp1\Form1.cs:line 234
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  11/3/2018 2:53:21 PM-----------------
+-------------------------------------------------------------------------------------
+File name can't contains "*:<>?//\|. 
+
+
+
+   at WindowsFormsApp1.Form1.GetFileInfo(String FilePath) in D:\windowsform\WindowsFormsApp1\WindowsFormsApp1\Form1.cs:line 388
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  11/3/2018 2:53:21 PM-----------------
+-------------------------------------------------------------------------------------
+SqlDateTime overflow. Must be between 1/1/1753 12:00:00 AM and 12/31/9999 11:59:59 PM.
+
+
+
+   at System.Data.SqlClient.TdsParser.TdsExecuteRPC(SqlCommand cmd, _SqlRPC[] rpcArray, Int32 timeout, Boolean inSchema, SqlNotificationRequest notificationRequest, TdsParserStateObject stateObj, Boolean isCommandProc, Boolean sync, TaskCompletionSource`1 completion, Int32 startRpc, Int32 startParam)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at DAL.Repository.FileInformation.UploadFile(FileInfo file, Int32 id) in D:\windowsform\WindowsFormsApp1\Repository\Repository\FileInformation.cs:line 95
+   at WindowsFormsApp1.Form1.LoadSubDirs(String directory, Int32 PresentFolderid, Int32 Rootid) in D:\windowsform\WindowsFormsApp1\WindowsFormsApp1\Form1.cs:line 234
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  11/3/2018 2:53:22 PM-----------------
+-------------------------------------------------------------------------------------
+File name can't contains "*:<>?//\|. 
+
+
+
+   at WindowsFormsApp1.Form1.GetFileInfo(String FilePath) in D:\windowsform\WindowsFormsApp1\WindowsFormsApp1\Form1.cs:line 388
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  11/3/2018 2:53:22 PM-----------------
+-------------------------------------------------------------------------------------
+SqlDateTime overflow. Must be between 1/1/1753 12:00:00 AM and 12/31/9999 11:59:59 PM.
+
+
+
+   at System.Data.SqlClient.TdsParser.TdsExecuteRPC(SqlCommand cmd, _SqlRPC[] rpcArray, Int32 timeout, Boolean inSchema, SqlNotificationRequest notificationRequest, TdsParserStateObject stateObj, Boolean isCommandProc, Boolean sync, TaskCompletionSource`1 completion, Int32 startRpc, Int32 startParam)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at DAL.Repository.FileInformation.UploadFile(FileInfo file, Int32 id) in D:\windowsform\WindowsFormsApp1\Repository\Repository\FileInformation.cs:line 95
+   at WindowsFormsApp1.Form1.LoadSubDirs(String directory, Int32 PresentFolderid, Int32 Rootid) in D:\windowsform\WindowsFormsApp1\WindowsFormsApp1\Form1.cs:line 234
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  11/3/2018 2:53:22 PM-----------------
+-------------------------------------------------------------------------------------
+File name can't contains "*:<>?//\|. 
+
+
+
+   at WindowsFormsApp1.Form1.GetFileInfo(String FilePath) in D:\windowsform\WindowsFormsApp1\WindowsFormsApp1\Form1.cs:line 388
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  11/3/2018 2:53:22 PM-----------------
+-------------------------------------------------------------------------------------
+SqlDateTime overflow. Must be between 1/1/1753 12:00:00 AM and 12/31/9999 11:59:59 PM.
+
+
+
+   at System.Data.SqlClient.TdsParser.TdsExecuteRPC(SqlCommand cmd, _SqlRPC[] rpcArray, Int32 timeout, Boolean inSchema, SqlNotificationRequest notificationRequest, TdsParserStateObject stateObj, Boolean isCommandProc, Boolean sync, TaskCompletionSource`1 completion, Int32 startRpc, Int32 startParam)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at DAL.Repository.FileInformation.UploadFile(FileInfo file, Int32 id) in D:\windowsform\WindowsFormsApp1\Repository\Repository\FileInformation.cs:line 95
+   at WindowsFormsApp1.Form1.LoadSubDirs(String directory, Int32 PresentFolderid, Int32 Rootid) in D:\windowsform\WindowsFormsApp1\WindowsFormsApp1\Form1.cs:line 234
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  11/3/2018 2:53:22 PM-----------------
+-------------------------------------------------------------------------------------
+File name can't contains "*:<>?//\|. 
+
+
+
+   at WindowsFormsApp1.Form1.GetFileInfo(String FilePath) in D:\windowsform\WindowsFormsApp1\WindowsFormsApp1\Form1.cs:line 388
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  11/3/2018 2:53:22 PM-----------------
+-------------------------------------------------------------------------------------
+SqlDateTime overflow. Must be between 1/1/1753 12:00:00 AM and 12/31/9999 11:59:59 PM.
+
+
+
+   at System.Data.SqlClient.TdsParser.TdsExecuteRPC(SqlCommand cmd, _SqlRPC[] rpcArray, Int32 timeout, Boolean inSchema, SqlNotificationRequest notificationRequest, TdsParserStateObject stateObj, Boolean isCommandProc, Boolean sync, TaskCompletionSource`1 completion, Int32 startRpc, Int32 startParam)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at DAL.Repository.FileInformation.UploadFile(FileInfo file, Int32 id) in D:\windowsform\WindowsFormsApp1\Repository\Repository\FileInformation.cs:line 95
+   at WindowsFormsApp1.Form1.LoadSubDirs(String directory, Int32 PresentFolderid, Int32 Rootid) in D:\windowsform\WindowsFormsApp1\WindowsFormsApp1\Form1.cs:line 234
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  11/3/2018 2:53:22 PM-----------------
+-------------------------------------------------------------------------------------
+File name can't contains "*:<>?//\|. 
+
+
+
+   at WindowsFormsApp1.Form1.GetFileInfo(String FilePath) in D:\windowsform\WindowsFormsApp1\WindowsFormsApp1\Form1.cs:line 388
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  11/3/2018 2:53:22 PM-----------------
+-------------------------------------------------------------------------------------
+SqlDateTime overflow. Must be between 1/1/1753 12:00:00 AM and 12/31/9999 11:59:59 PM.
+
+
+
+   at System.Data.SqlClient.TdsParser.TdsExecuteRPC(SqlCommand cmd, _SqlRPC[] rpcArray, Int32 timeout, Boolean inSchema, SqlNotificationRequest notificationRequest, TdsParserStateObject stateObj, Boolean isCommandProc, Boolean sync, TaskCompletionSource`1 completion, Int32 startRpc, Int32 startParam)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at DAL.Repository.FileInformation.UploadFile(FileInfo file, Int32 id) in D:\windowsform\WindowsFormsApp1\Repository\Repository\FileInformation.cs:line 95
+   at WindowsFormsApp1.Form1.LoadSubDirs(String directory, Int32 PresentFolderid, Int32 Rootid) in D:\windowsform\WindowsFormsApp1\WindowsFormsApp1\Form1.cs:line 234
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  11/3/2018 2:53:22 PM-----------------
+-------------------------------------------------------------------------------------
+File name can't contains "*:<>?//\|. 
+
+
+
+   at WindowsFormsApp1.Form1.GetFileInfo(String FilePath) in D:\windowsform\WindowsFormsApp1\WindowsFormsApp1\Form1.cs:line 388
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  11/3/2018 2:53:22 PM-----------------
+-------------------------------------------------------------------------------------
+SqlDateTime overflow. Must be between 1/1/1753 12:00:00 AM and 12/31/9999 11:59:59 PM.
+
+
+
+   at System.Data.SqlClient.TdsParser.TdsExecuteRPC(SqlCommand cmd, _SqlRPC[] rpcArray, Int32 timeout, Boolean inSchema, SqlNotificationRequest notificationRequest, TdsParserStateObject stateObj, Boolean isCommandProc, Boolean sync, TaskCompletionSource`1 completion, Int32 startRpc, Int32 startParam)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at DAL.Repository.FileInformation.UploadFile(FileInfo file, Int32 id) in D:\windowsform\WindowsFormsApp1\Repository\Repository\FileInformation.cs:line 95
+   at WindowsFormsApp1.Form1.LoadSubDirs(String directory, Int32 PresentFolderid, Int32 Rootid) in D:\windowsform\WindowsFormsApp1\WindowsFormsApp1\Form1.cs:line 234
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  11/3/2018 2:53:22 PM-----------------
+-------------------------------------------------------------------------------------
+File name can't contains "*:<>?//\|. 
+
+
+
+   at WindowsFormsApp1.Form1.GetFileInfo(String FilePath) in D:\windowsform\WindowsFormsApp1\WindowsFormsApp1\Form1.cs:line 388
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  11/3/2018 2:53:22 PM-----------------
+-------------------------------------------------------------------------------------
+SqlDateTime overflow. Must be between 1/1/1753 12:00:00 AM and 12/31/9999 11:59:59 PM.
+
+
+
+   at System.Data.SqlClient.TdsParser.TdsExecuteRPC(SqlCommand cmd, _SqlRPC[] rpcArray, Int32 timeout, Boolean inSchema, SqlNotificationRequest notificationRequest, TdsParserStateObject stateObj, Boolean isCommandProc, Boolean sync, TaskCompletionSource`1 completion, Int32 startRpc, Int32 startParam)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at DAL.Repository.FileInformation.UploadFile(FileInfo file, Int32 id) in D:\windowsform\WindowsFormsApp1\Repository\Repository\FileInformation.cs:line 95
+   at WindowsFormsApp1.Form1.LoadSubDirs(String directory, Int32 PresentFolderid, Int32 Rootid) in D:\windowsform\WindowsFormsApp1\WindowsFormsApp1\Form1.cs:line 234
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  11/3/2018 2:53:22 PM-----------------
+-------------------------------------------------------------------------------------
+File name can't contains "*:<>?//\|. 
+
+
+
+   at WindowsFormsApp1.Form1.GetFileInfo(String FilePath) in D:\windowsform\WindowsFormsApp1\WindowsFormsApp1\Form1.cs:line 388
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  11/3/2018 2:53:22 PM-----------------
+-------------------------------------------------------------------------------------
+SqlDateTime overflow. Must be between 1/1/1753 12:00:00 AM and 12/31/9999 11:59:59 PM.
+
+
+
+   at System.Data.SqlClient.TdsParser.TdsExecuteRPC(SqlCommand cmd, _SqlRPC[] rpcArray, Int32 timeout, Boolean inSchema, SqlNotificationRequest notificationRequest, TdsParserStateObject stateObj, Boolean isCommandProc, Boolean sync, TaskCompletionSource`1 completion, Int32 startRpc, Int32 startParam)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at DAL.Repository.FileInformation.UploadFile(FileInfo file, Int32 id) in D:\windowsform\WindowsFormsApp1\Repository\Repository\FileInformation.cs:line 95
+   at WindowsFormsApp1.Form1.LoadSubDirs(String directory, Int32 PresentFolderid, Int32 Rootid) in D:\windowsform\WindowsFormsApp1\WindowsFormsApp1\Form1.cs:line 234
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  11/3/2018 2:53:22 PM-----------------
+-------------------------------------------------------------------------------------
+File name can't contains "*:<>?//\|. 
+
+
+
+   at WindowsFormsApp1.Form1.GetFileInfo(String FilePath) in D:\windowsform\WindowsFormsApp1\WindowsFormsApp1\Form1.cs:line 388
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  11/3/2018 2:53:22 PM-----------------
+-------------------------------------------------------------------------------------
+SqlDateTime overflow. Must be between 1/1/1753 12:00:00 AM and 12/31/9999 11:59:59 PM.
+
+
+
+   at System.Data.SqlClient.TdsParser.TdsExecuteRPC(SqlCommand cmd, _SqlRPC[] rpcArray, Int32 timeout, Boolean inSchema, SqlNotificationRequest notificationRequest, TdsParserStateObject stateObj, Boolean isCommandProc, Boolean sync, TaskCompletionSource`1 completion, Int32 startRpc, Int32 startParam)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at DAL.Repository.FileInformation.UploadFile(FileInfo file, Int32 id) in D:\windowsform\WindowsFormsApp1\Repository\Repository\FileInformation.cs:line 95
+   at WindowsFormsApp1.Form1.LoadSubDirs(String directory, Int32 PresentFolderid, Int32 Rootid) in D:\windowsform\WindowsFormsApp1\WindowsFormsApp1\Form1.cs:line 234
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  11/3/2018 2:53:22 PM-----------------
+-------------------------------------------------------------------------------------
+File name can't contains "*:<>?//\|. 
+
+
+
+   at WindowsFormsApp1.Form1.GetFileInfo(String FilePath) in D:\windowsform\WindowsFormsApp1\WindowsFormsApp1\Form1.cs:line 388
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  11/3/2018 2:53:22 PM-----------------
+-------------------------------------------------------------------------------------
+SqlDateTime overflow. Must be between 1/1/1753 12:00:00 AM and 12/31/9999 11:59:59 PM.
+
+
+
+   at System.Data.SqlClient.TdsParser.TdsExecuteRPC(SqlCommand cmd, _SqlRPC[] rpcArray, Int32 timeout, Boolean inSchema, SqlNotificationRequest notificationRequest, TdsParserStateObject stateObj, Boolean isCommandProc, Boolean sync, TaskCompletionSource`1 completion, Int32 startRpc, Int32 startParam)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at DAL.Repository.FileInformation.UploadFile(FileInfo file, Int32 id) in D:\windowsform\WindowsFormsApp1\Repository\Repository\FileInformation.cs:line 95
+   at WindowsFormsApp1.Form1.LoadSubDirs(String directory, Int32 PresentFolderid, Int32 Rootid) in D:\windowsform\WindowsFormsApp1\WindowsFormsApp1\Form1.cs:line 234
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  11/3/2018 2:53:22 PM-----------------
+-------------------------------------------------------------------------------------
+File name can't contains "*:<>?//\|. 
+
+
+
+   at WindowsFormsApp1.Form1.GetFileInfo(String FilePath) in D:\windowsform\WindowsFormsApp1\WindowsFormsApp1\Form1.cs:line 388
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  11/3/2018 2:53:22 PM-----------------
+-------------------------------------------------------------------------------------
+SqlDateTime overflow. Must be between 1/1/1753 12:00:00 AM and 12/31/9999 11:59:59 PM.
+
+
+
+   at System.Data.SqlClient.TdsParser.TdsExecuteRPC(SqlCommand cmd, _SqlRPC[] rpcArray, Int32 timeout, Boolean inSchema, SqlNotificationRequest notificationRequest, TdsParserStateObject stateObj, Boolean isCommandProc, Boolean sync, TaskCompletionSource`1 completion, Int32 startRpc, Int32 startParam)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at DAL.Repository.FileInformation.UploadFile(FileInfo file, Int32 id) in D:\windowsform\WindowsFormsApp1\Repository\Repository\FileInformation.cs:line 95
+   at WindowsFormsApp1.Form1.LoadSubDirs(String directory, Int32 PresentFolderid, Int32 Rootid) in D:\windowsform\WindowsFormsApp1\WindowsFormsApp1\Form1.cs:line 234
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  11/3/2018 2:53:22 PM-----------------
+-------------------------------------------------------------------------------------
+File name can't contains "*:<>?//\|. 
+
+
+
+   at WindowsFormsApp1.Form1.GetFileInfo(String FilePath) in D:\windowsform\WindowsFormsApp1\WindowsFormsApp1\Form1.cs:line 388
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  11/3/2018 2:53:22 PM-----------------
+-------------------------------------------------------------------------------------
+SqlDateTime overflow. Must be between 1/1/1753 12:00:00 AM and 12/31/9999 11:59:59 PM.
+
+
+
+   at System.Data.SqlClient.TdsParser.TdsExecuteRPC(SqlCommand cmd, _SqlRPC[] rpcArray, Int32 timeout, Boolean inSchema, SqlNotificationRequest notificationRequest, TdsParserStateObject stateObj, Boolean isCommandProc, Boolean sync, TaskCompletionSource`1 completion, Int32 startRpc, Int32 startParam)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at DAL.Repository.FileInformation.UploadFile(FileInfo file, Int32 id) in D:\windowsform\WindowsFormsApp1\Repository\Repository\FileInformation.cs:line 95
+   at WindowsFormsApp1.Form1.LoadSubDirs(String directory, Int32 PresentFolderid, Int32 Rootid) in D:\windowsform\WindowsFormsApp1\WindowsFormsApp1\Form1.cs:line 234
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  11/3/2018 2:53:22 PM-----------------
+-------------------------------------------------------------------------------------
+File name can't contains "*:<>?//\|. 
+
+
+
+   at WindowsFormsApp1.Form1.GetFileInfo(String FilePath) in D:\windowsform\WindowsFormsApp1\WindowsFormsApp1\Form1.cs:line 388
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  11/3/2018 2:53:22 PM-----------------
+-------------------------------------------------------------------------------------
+SqlDateTime overflow. Must be between 1/1/1753 12:00:00 AM and 12/31/9999 11:59:59 PM.
+
+
+
+   at System.Data.SqlClient.TdsParser.TdsExecuteRPC(SqlCommand cmd, _SqlRPC[] rpcArray, Int32 timeout, Boolean inSchema, SqlNotificationRequest notificationRequest, TdsParserStateObject stateObj, Boolean isCommandProc, Boolean sync, TaskCompletionSource`1 completion, Int32 startRpc, Int32 startParam)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at DAL.Repository.FileInformation.UploadFile(FileInfo file, Int32 id) in D:\windowsform\WindowsFormsApp1\Repository\Repository\FileInformation.cs:line 95
+   at WindowsFormsApp1.Form1.LoadSubDirs(String directory, Int32 PresentFolderid, Int32 Rootid) in D:\windowsform\WindowsFormsApp1\WindowsFormsApp1\Form1.cs:line 234
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  11/3/2018 2:53:22 PM-----------------
+-------------------------------------------------------------------------------------
+File name can't contains "*:<>?//\|. 
+
+
+
+   at WindowsFormsApp1.Form1.GetFileInfo(String FilePath) in D:\windowsform\WindowsFormsApp1\WindowsFormsApp1\Form1.cs:line 388
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  11/3/2018 2:53:22 PM-----------------
+-------------------------------------------------------------------------------------
+SqlDateTime overflow. Must be between 1/1/1753 12:00:00 AM and 12/31/9999 11:59:59 PM.
+
+
+
+   at System.Data.SqlClient.TdsParser.TdsExecuteRPC(SqlCommand cmd, _SqlRPC[] rpcArray, Int32 timeout, Boolean inSchema, SqlNotificationRequest notificationRequest, TdsParserStateObject stateObj, Boolean isCommandProc, Boolean sync, TaskCompletionSource`1 completion, Int32 startRpc, Int32 startParam)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at DAL.Repository.FileInformation.UploadFile(FileInfo file, Int32 id) in D:\windowsform\WindowsFormsApp1\Repository\Repository\FileInformation.cs:line 95
+   at WindowsFormsApp1.Form1.LoadSubDirs(String directory, Int32 PresentFolderid, Int32 Rootid) in D:\windowsform\WindowsFormsApp1\WindowsFormsApp1\Form1.cs:line 234
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  11/3/2018 2:53:22 PM-----------------
+-------------------------------------------------------------------------------------
+File name can't contains "*:<>?//\|. 
+
+
+
+   at WindowsFormsApp1.Form1.GetFileInfo(String FilePath) in D:\windowsform\WindowsFormsApp1\WindowsFormsApp1\Form1.cs:line 388
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  11/3/2018 2:53:22 PM-----------------
+-------------------------------------------------------------------------------------
+SqlDateTime overflow. Must be between 1/1/1753 12:00:00 AM and 12/31/9999 11:59:59 PM.
+
+
+
+   at System.Data.SqlClient.TdsParser.TdsExecuteRPC(SqlCommand cmd, _SqlRPC[] rpcArray, Int32 timeout, Boolean inSchema, SqlNotificationRequest notificationRequest, TdsParserStateObject stateObj, Boolean isCommandProc, Boolean sync, TaskCompletionSource`1 completion, Int32 startRpc, Int32 startParam)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at DAL.Repository.FileInformation.UploadFile(FileInfo file, Int32 id) in D:\windowsform\WindowsFormsApp1\Repository\Repository\FileInformation.cs:line 95
+   at WindowsFormsApp1.Form1.LoadSubDirs(String directory, Int32 PresentFolderid, Int32 Rootid) in D:\windowsform\WindowsFormsApp1\WindowsFormsApp1\Form1.cs:line 234
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  11/3/2018 2:53:22 PM-----------------
+-------------------------------------------------------------------------------------
+File name can't contains "*:<>?//\|. 
+
+
+
+   at WindowsFormsApp1.Form1.GetFileInfo(String FilePath) in D:\windowsform\WindowsFormsApp1\WindowsFormsApp1\Form1.cs:line 388
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  11/3/2018 2:53:22 PM-----------------
+-------------------------------------------------------------------------------------
+SqlDateTime overflow. Must be between 1/1/1753 12:00:00 AM and 12/31/9999 11:59:59 PM.
+
+
+
+   at System.Data.SqlClient.TdsParser.TdsExecuteRPC(SqlCommand cmd, _SqlRPC[] rpcArray, Int32 timeout, Boolean inSchema, SqlNotificationRequest notificationRequest, TdsParserStateObject stateObj, Boolean isCommandProc, Boolean sync, TaskCompletionSource`1 completion, Int32 startRpc, Int32 startParam)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at DAL.Repository.FileInformation.UploadFile(FileInfo file, Int32 id) in D:\windowsform\WindowsFormsApp1\Repository\Repository\FileInformation.cs:line 95
+   at WindowsFormsApp1.Form1.LoadSubDirs(String directory, Int32 PresentFolderid, Int32 Rootid) in D:\windowsform\WindowsFormsApp1\WindowsFormsApp1\Form1.cs:line 234
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  11/3/2018 2:53:22 PM-----------------
+-------------------------------------------------------------------------------------
+Folder name can't contains "*:<>?//\|. 
+
+
+
+   at WindowsFormsApp1.Form1.GetFolderdetails(String directoryPath) in D:\windowsform\WindowsFormsApp1\WindowsFormsApp1\Form1.cs:line 285
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  11/3/2018 2:53:22 PM-----------------
+-------------------------------------------------------------------------------------
+SqlDateTime overflow. Must be between 1/1/1753 12:00:00 AM and 12/31/9999 11:59:59 PM.
+
+
+
+   at System.Data.SqlClient.TdsParser.TdsExecuteRPC(SqlCommand cmd, _SqlRPC[] rpcArray, Int32 timeout, Boolean inSchema, SqlNotificationRequest notificationRequest, TdsParserStateObject stateObj, Boolean isCommandProc, Boolean sync, TaskCompletionSource`1 completion, Int32 startRpc, Int32 startParam)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at DAL.Repository.FileInformation.UploadSubFolder(SubFolder sub, Int32 Rootid) in D:\windowsform\WindowsFormsApp1\Repository\Repository\FileInformation.cs:line 69
+   at WindowsFormsApp1.Form1.LoadSubDirs(String directory, Int32 PresentFolderid, Int32 Rootid) in D:\windowsform\WindowsFormsApp1\WindowsFormsApp1\Form1.cs:line 246
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  11/3/2018 2:54:09 PM-----------------
+-------------------------------------------------------------------------------------
+Please Browse the folder
+
+
+
+   at WindowsFormsApp1.Form1.Run_Click(Object sender, EventArgs e) in D:\windowsform\WindowsFormsApp1\WindowsFormsApp1\Form1.cs:line 156
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  11/3/2018 2:54:10 PM-----------------
+-------------------------------------------------------------------------------------
+Please Browse the folder
+
+
+
+   at WindowsFormsApp1.Form1.Run_Click(Object sender, EventArgs e) in D:\windowsform\WindowsFormsApp1\WindowsFormsApp1\Form1.cs:line 156
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  11/3/2018 2:54:11 PM-----------------
+-------------------------------------------------------------------------------------
+Please Browse the folder
+
+
+
+   at WindowsFormsApp1.Form1.Run_Click(Object sender, EventArgs e) in D:\windowsform\WindowsFormsApp1\WindowsFormsApp1\Form1.cs:line 156
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  11/3/2018 2:56:20 PM-----------------
+-------------------------------------------------------------------------------------
+Please Browse the folder
+
+
+
+   at WindowsFormsApp1.Form1.Run_Click(Object sender, EventArgs e) in D:\windowsform\WindowsFormsApp1\WindowsFormsApp1\Form1.cs:line 156
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  11/3/2018 3:50:35 PM-----------------
+-------------------------------------------------------------------------------------
+File name can't contains "*:<>?//\|. 
+
+
+
+   at WindowsFormsApp1.Form1.GetFileInfo(String FilePath) in D:\windowsform\WindowsFormsApp1\WindowsFormsApp1\Form1.cs:line 395
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  11/3/2018 3:50:35 PM-----------------
+-------------------------------------------------------------------------------------
+SqlDateTime overflow. Must be between 1/1/1753 12:00:00 AM and 12/31/9999 11:59:59 PM.
+
+
+
+   at System.Data.SqlClient.TdsParser.TdsExecuteRPC(SqlCommand cmd, _SqlRPC[] rpcArray, Int32 timeout, Boolean inSchema, SqlNotificationRequest notificationRequest, TdsParserStateObject stateObj, Boolean isCommandProc, Boolean sync, TaskCompletionSource`1 completion, Int32 startRpc, Int32 startParam)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at DAL.Repository.FileInformation.UploadFile(FileInfo file, Int32 id) in D:\windowsform\WindowsFormsApp1\Repository\Repository\FileInformation.cs:line 78
+   at WindowsFormsApp1.Form1.LoadSubDirs(String directory, Int32 PresentFolderid, Int32 Rootid) in D:\windowsform\WindowsFormsApp1\WindowsFormsApp1\Form1.cs:line 241
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  11/3/2018 3:50:35 PM-----------------
+-------------------------------------------------------------------------------------
+File name can't contains "*:<>?//\|. 
+
+
+
+   at WindowsFormsApp1.Form1.GetFileInfo(String FilePath) in D:\windowsform\WindowsFormsApp1\WindowsFormsApp1\Form1.cs:line 395
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  11/3/2018 3:50:35 PM-----------------
+-------------------------------------------------------------------------------------
+File name can't contains "*:<>?//\|. 
+
+
+
+   at WindowsFormsApp1.Form1.GetFileInfo(String FilePath) in D:\windowsform\WindowsFormsApp1\WindowsFormsApp1\Form1.cs:line 395
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  11/3/2018 3:50:35 PM-----------------
+-------------------------------------------------------------------------------------
+SqlDateTime overflow. Must be between 1/1/1753 12:00:00 AM and 12/31/9999 11:59:59 PM.
+
+
+
+   at System.Data.SqlClient.TdsParser.TdsExecuteRPC(SqlCommand cmd, _SqlRPC[] rpcArray, Int32 timeout, Boolean inSchema, SqlNotificationRequest notificationRequest, TdsParserStateObject stateObj, Boolean isCommandProc, Boolean sync, TaskCompletionSource`1 completion, Int32 startRpc, Int32 startParam)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at DAL.Repository.FileInformation.UploadFile(FileInfo file, Int32 id) in D:\windowsform\WindowsFormsApp1\Repository\Repository\FileInformation.cs:line 78
+   at WindowsFormsApp1.Form1.LoadSubDirs(String directory, Int32 PresentFolderid, Int32 Rootid) in D:\windowsform\WindowsFormsApp1\WindowsFormsApp1\Form1.cs:line 241
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  11/3/2018 3:50:35 PM-----------------
+-------------------------------------------------------------------------------------
+File name can't contains "*:<>?//\|. 
+
+
+
+   at WindowsFormsApp1.Form1.GetFileInfo(String FilePath) in D:\windowsform\WindowsFormsApp1\WindowsFormsApp1\Form1.cs:line 395
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  11/3/2018 3:50:35 PM-----------------
+-------------------------------------------------------------------------------------
+SqlDateTime overflow. Must be between 1/1/1753 12:00:00 AM and 12/31/9999 11:59:59 PM.
+
+
+
+   at System.Data.SqlClient.TdsParser.TdsExecuteRPC(SqlCommand cmd, _SqlRPC[] rpcArray, Int32 timeout, Boolean inSchema, SqlNotificationRequest notificationRequest, TdsParserStateObject stateObj, Boolean isCommandProc, Boolean sync, TaskCompletionSource`1 completion, Int32 startRpc, Int32 startParam)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at DAL.Repository.FileInformation.UploadFile(FileInfo file, Int32 id) in D:\windowsform\WindowsFormsApp1\Repository\Repository\FileInformation.cs:line 78
+   at WindowsFormsApp1.Form1.LoadSubDirs(String directory, Int32 PresentFolderid, Int32 Rootid) in D:\windowsform\WindowsFormsApp1\WindowsFormsApp1\Form1.cs:line 241
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  11/3/2018 3:50:35 PM-----------------
+-------------------------------------------------------------------------------------
+File name can't contains "*:<>?//\|. 
+
+
+
+   at WindowsFormsApp1.Form1.GetFileInfo(String FilePath) in D:\windowsform\WindowsFormsApp1\WindowsFormsApp1\Form1.cs:line 395
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  11/3/2018 3:50:35 PM-----------------
+-------------------------------------------------------------------------------------
+SqlDateTime overflow. Must be between 1/1/1753 12:00:00 AM and 12/31/9999 11:59:59 PM.
+
+
+
+   at System.Data.SqlClient.TdsParser.TdsExecuteRPC(SqlCommand cmd, _SqlRPC[] rpcArray, Int32 timeout, Boolean inSchema, SqlNotificationRequest notificationRequest, TdsParserStateObject stateObj, Boolean isCommandProc, Boolean sync, TaskCompletionSource`1 completion, Int32 startRpc, Int32 startParam)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at DAL.Repository.FileInformation.UploadFile(FileInfo file, Int32 id) in D:\windowsform\WindowsFormsApp1\Repository\Repository\FileInformation.cs:line 78
+   at WindowsFormsApp1.Form1.LoadSubDirs(String directory, Int32 PresentFolderid, Int32 Rootid) in D:\windowsform\WindowsFormsApp1\WindowsFormsApp1\Form1.cs:line 241
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  11/3/2018 3:50:35 PM-----------------
+-------------------------------------------------------------------------------------
+File name can't contains "*:<>?//\|. 
+
+
+
+   at WindowsFormsApp1.Form1.GetFileInfo(String FilePath) in D:\windowsform\WindowsFormsApp1\WindowsFormsApp1\Form1.cs:line 395
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  11/3/2018 3:50:35 PM-----------------
+-------------------------------------------------------------------------------------
+SqlDateTime overflow. Must be between 1/1/1753 12:00:00 AM and 12/31/9999 11:59:59 PM.
+
+
+
+   at System.Data.SqlClient.TdsParser.TdsExecuteRPC(SqlCommand cmd, _SqlRPC[] rpcArray, Int32 timeout, Boolean inSchema, SqlNotificationRequest notificationRequest, TdsParserStateObject stateObj, Boolean isCommandProc, Boolean sync, TaskCompletionSource`1 completion, Int32 startRpc, Int32 startParam)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at DAL.Repository.FileInformation.UploadFile(FileInfo file, Int32 id) in D:\windowsform\WindowsFormsApp1\Repository\Repository\FileInformation.cs:line 78
+   at WindowsFormsApp1.Form1.LoadSubDirs(String directory, Int32 PresentFolderid, Int32 Rootid) in D:\windowsform\WindowsFormsApp1\WindowsFormsApp1\Form1.cs:line 241
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  11/3/2018 3:50:35 PM-----------------
+-------------------------------------------------------------------------------------
+File name can't contains "*:<>?//\|. 
+
+
+
+   at WindowsFormsApp1.Form1.GetFileInfo(String FilePath) in D:\windowsform\WindowsFormsApp1\WindowsFormsApp1\Form1.cs:line 395
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  11/3/2018 3:50:35 PM-----------------
+-------------------------------------------------------------------------------------
+SqlDateTime overflow. Must be between 1/1/1753 12:00:00 AM and 12/31/9999 11:59:59 PM.
+
+
+
+   at System.Data.SqlClient.TdsParser.TdsExecuteRPC(SqlCommand cmd, _SqlRPC[] rpcArray, Int32 timeout, Boolean inSchema, SqlNotificationRequest notificationRequest, TdsParserStateObject stateObj, Boolean isCommandProc, Boolean sync, TaskCompletionSource`1 completion, Int32 startRpc, Int32 startParam)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at DAL.Repository.FileInformation.UploadFile(FileInfo file, Int32 id) in D:\windowsform\WindowsFormsApp1\Repository\Repository\FileInformation.cs:line 78
+   at WindowsFormsApp1.Form1.LoadSubDirs(String directory, Int32 PresentFolderid, Int32 Rootid) in D:\windowsform\WindowsFormsApp1\WindowsFormsApp1\Form1.cs:line 241
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  11/3/2018 3:50:35 PM-----------------
+-------------------------------------------------------------------------------------
+File name can't contains "*:<>?//\|. 
+
+
+
+   at WindowsFormsApp1.Form1.GetFileInfo(String FilePath) in D:\windowsform\WindowsFormsApp1\WindowsFormsApp1\Form1.cs:line 395
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  11/3/2018 3:50:35 PM-----------------
+-------------------------------------------------------------------------------------
+SqlDateTime overflow. Must be between 1/1/1753 12:00:00 AM and 12/31/9999 11:59:59 PM.
+
+
+
+   at System.Data.SqlClient.TdsParser.TdsExecuteRPC(SqlCommand cmd, _SqlRPC[] rpcArray, Int32 timeout, Boolean inSchema, SqlNotificationRequest notificationRequest, TdsParserStateObject stateObj, Boolean isCommandProc, Boolean sync, TaskCompletionSource`1 completion, Int32 startRpc, Int32 startParam)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at DAL.Repository.FileInformation.UploadFile(FileInfo file, Int32 id) in D:\windowsform\WindowsFormsApp1\Repository\Repository\FileInformation.cs:line 78
+   at WindowsFormsApp1.Form1.LoadSubDirs(String directory, Int32 PresentFolderid, Int32 Rootid) in D:\windowsform\WindowsFormsApp1\WindowsFormsApp1\Form1.cs:line 241
+--------------------------------*End*------------------------------------------
+
+
+
